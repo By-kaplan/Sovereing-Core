@@ -50,10 +50,7 @@ Bu modül, **Sovereign Core Library**'nin bilimsel analiz ünitesidir. Ham veril
 ---
 
 ### 🛡️ Mimar Notu
-**Kaplan Precision Dept** standartlarında geliştirilen bu ünite, 100k+ dosyalık gelecek vizyonumuzun merkezi "karar verici" mekanizmasıdır.
-
----
-*@status: Production-Ready | @architect: Ömer Kaplan*
+**Kaplan Precision Dept** standartlarında geliştirilen bu ünite, 100k+ dosyalık gelecek vizyonumuzun merkezi "karar verici" mekanizmasıdır. *@status: Production-Ready | @architect: Ömer Kaplan*
 
 
 ​
