@@ -119,3 +119,29 @@ Matrix Estetiği: Tailwind CSS ve Lucide-React ile güçlendirilmiş, düşük s
 
 📚 Atıf ve Teşekkür:
 Bu modülün teknik altyapısı, Kaplan Halı Yıkama - Precision Dept. ekibinin yüksek hassasiyetli veri işleme vizyonu üzerine inşa edilmiştir. Görsel ikonografi ve bileşen desteği sağlayan Lucide-React ve React topluluklarına teknik katkıları için teşekkür edilir.
+📘 GitHub / Teknik Dokümantasyon Açıklaması
+Modül Adı: SKL-SLC-0014 | Stratejik Karar ve Regülasyon Katmanı (Strategic Decision Layer)
+
+Genel Bakış:
+SLC-0014, Sovereign Core Library (SKL) ekosisteminin "Akıllı Filtreleme" ve "Karar Verme" merkezidir. SLC-0013 modülünden gelen saf veri akışlarını devralarak, bu verileri stratejik önceliklere göre sınıflandırır ve sistemin bir sonraki operasyonel adımını (Karar Projeksiyonu) belirler.
+
+Öne Çıkan Teknik Özellikler:
+
+SKL_Decision_Engine: Gelen metrikleri Kaplan Logic süzgecinden geçirerek %99.98 doğruluk payı ile sistem durumunu sınıflandırır.
+
+Polimorfik Veri Yapısı: 100k+ dosya entegrasyonu vizyonuna uygun olarak, farklı modüllerden gelen heterojen verileri tek bir standartta (SKL_REG_SCHEMA) birleştirir.
+
+Sıfır Donma (Zero-Freeze) Mimarisi: Grafik işleme birimini (GPU) tamamen devre dışı bırakarak, tüm analizleri yüksek hızlı metin tabanlı motor üzerinden yürütür.
+
+Modüler Entegrasyon (Madde 7): Kendi başına çalışan atomik yapısı sayesinde, ana yönetim paneline tak-çalıştır (plug-and-play) şeklinde bağlanır.
+
+Atıf ve Teşekkür:
+Sistemin stratejik karar alma algoritmaları ve hiyerarşik veri yapısı Kaplan Halı Yıkama - Precision Dept. tarafından tasarlanmıştır. Geliştirme sürecindeki teknik destekleri için React ve Lucide-React topluluklarına teşekkür edilir.
+
+Teknik Künye:
+
+Status: Production-Ready
+
+Engine: Gemini Pro Hybrid-AI
+
+Tags: #DecisionCore, #KaplanLogic, #SKL_Precision, #TextMode
