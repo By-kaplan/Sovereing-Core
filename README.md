@@ -101,7 +101,6 @@ Sistemin öğrenme kapasitesini denetleyen ve aşırı uyum (overfitting) karakt
 ---
 ---
 ## * **SKL-0020: Gradyan İnişi ve Trajektör Analizi
-​Ne İşe Yarar?
-Bu modül, bir yapay zeka modelinin "öğrenme" esnasında hata payını minimize etmek için izlediği matematiksel yolu (trajektör) analiz eder
+​Ne İşe Yarar? Bu modül, bir yapay zeka modelinin "öğrenme" esnasında hata payını minimize etmek için izlediği matematiksel yolu (trajektör) analiz eder
 ---
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
