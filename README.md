@@ -85,4 +85,6 @@ SKL-SLC-0015, Sovereign Core'un keşif katmanıdır
 ---
 SKL-0016 ​Modülün kalbinde yer alan SKL_DiscoveryLogicEngine, statik formüller yerine dinamik bir Sembolik Regresyon algoritması kullanır.
 ---
+SKL-0017: Continual Learning & Retention Kernel
+Yapay sinir ağlarında yeni görevler öğrenilirken eski bilgilerin silinmesini (Catastrophic Forgetting) engelleyen denetim modülüdür. 
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
