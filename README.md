@@ -16,6 +16,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 # 🛡️ SOVEREIGN CORE LIBRARY (SKL)
 > **"Precision Engineering from Kaplan Precision Dept."**
 
+​SKL-SLC-0015, Sovereign Core'un keşif katmanıdır
 ---
 
 ## 📦 SKL-0003: CampusTask Logistics Engine
