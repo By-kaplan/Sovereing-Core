@@ -16,8 +16,6 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 # 🛡️ SOVEREIGN CORE LIBRARY (SKL)
 > **"Precision Engineering from Kaplan Precision Dept."**
 
-​SKL-SLC-0015, Sovereign Core'un keşif katmanıdır
----
 
 ## 📦 SKL-0003: CampusTask Logistics Engine
 * **Tanım:** Kampüs içi otonom görev dağıtımı ve lojistik optimizasyon katmanı.
@@ -83,5 +81,8 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * **Görev:** Stratejik Karar ve Regülasyon Katmanı.
 * **Karar:** SKL_Decision_Engine ile %99.98 doğruluk paylı sistem projeksiyonu.
 
+SKL-SLC-0015, Sovereign Core'un keşif katmanıdır
+---
+SKL-0016 ​Modülün kalbinde yer alan SKL_DiscoveryLogicEngine, statik formüller yerine dinamik bir Sembolik Regresyon algoritması kullanır.
 ---
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
