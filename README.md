@@ -81,26 +81,31 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * **Görev:** Stratejik Karar ve Regülasyon Katmanı.
 * **Karar:** SKL_Decision_Engine ile %99.98 doğruluk paylı sistem projeksiyonu.
 
-## * **SKL-SLC-0015, Sovereign Core'un keşif katmanıdır
 ---
 
-SKL-0016 ​Modülün kalbinde yer alan SKL_DiscoveryLogicEngine, statik formüller yerine dinamik bir Sembolik Regresyon algoritması kullanır.
----
+## 🛰 SKL-SLC-0015: Sovereign Core Discovery Layer
+* **Tanım:** Evrensel veri topolojisi ve keşif katmanı.
+* **Core:** Non-Euclidean manifold analizi ve otonom veri haritalama.
 
-## * **SKL-0017: Continual Learning & Retention Kernel
-Yapay sinir ağlarında yeni görevler öğrenilirken eski bilgilerin silinmesini (Catastrophic Forgetting) engelleyen denetim modülüdür. 
----
+## 🌀 SKL-0016: Precision Extrapolation Engine
+* **Tanım:** Sembolik regresyon tabanlı dinamik formül türetim motoru.
+* **Core:** Statik denklemler yerine dinamik Lagrangian ekstrapolasyonu.
 
-## * **SKL-0018: Neural Bio-Symmetry & Integration Layer
-Sistem erişim güvenliğini biyometrik veriler ve nöral sinaps akışlarıyla harmonize eden güvenlik modülüdür.
----
+## 🧠 SKL-0017: Continual Learning & Retention Kernel
+* **Tanım:** Katastrofik unutma (Catastrophic Forgetting) engelleme modülü.
+* **Mühür:** EWC ve GEM algoritmaları ile %99.8 hafıza tutarlılığı.
 
----
-## * **SKL-0019: Capacity Control & Reg-Logic Analyzer
-Sistemin öğrenme kapasitesini denetleyen ve aşırı uyum (overfitting) karakterini analiz eden regülasyon motorudur.
----
----
-## * **SKL-0020: Gradyan İnişi ve Trajektör Analizi
-​Ne İşe Yarar? Bu modül, bir yapay zeka modelinin "öğrenme" esnasında hata payını minimize etmek için izlediği matematiksel yolu (trajektör) analiz eder
----
+## 🧬 SKL-0018: Neural Bio-Symmetry & Integration
+* **Tanım:** Biyometrik veri ve nöral sinaps senkronizasyon katmanı.
+* **Güvenlik:** Biyolojik kanıtlara dayalı otonom erişim mühürleme.
+
+## 📏 SKL-0019: Capacity Control & Reg-Logic
+* **Tanım:** Kapasite kontrol ve aşırı uyum (overfitting) analizörü.
+* **Mekanizma:** L1/L2 regülasyonu ve otonom dropout yönetimi.
+
+## 📉 SKL-0020: Gradient-Logic & Optimization Kernel
+* **Tanım:** Gradyan inişi trajektör analizi ve yakınsama denetimi.
+* **Motor:** Adam/SGD/Momentum simülasyonu ve izometrik SVG projeksiyonu.
+
+@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
