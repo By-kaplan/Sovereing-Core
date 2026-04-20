@@ -178,4 +178,56 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Dinamik Uyum Skoru (Fidelity Match): İşin gereksinimleri ile öğrencinin yetkinlikleri arasındaki mesafe, saf SVG üzerinden dairesel bir ilerleme çubuğuyla (Circular Progress) görselleştirilir.
 
 --------------------------------------------------
+
+## SKL-V006: BIAS-VARIANCE & GENERALIZATION INTEGRITY MONITOR
+
+​* 🛰️ Konsept: Model Karmaşıklığı Analizi, Aşırı Öğrenme (Overfitting) Tespiti ve Regülarizasyon Etkisi.
+
+​* 🛰️ Branchless Overfit Simulation: Eğitim ve doğrulama kayıpları (L_{train}, L_{val}), karmaşıklık ve gürültü parametrelerine bağlı olarak dallanmasız bir overfitMask üzerinden hesaplanır.
+
+​* 🛰️ Overfit Breakpoint Detection: Modelin genelleme kapasitesini yitirip ezberlemeye başladığı "Kırılma Noktası" (Breakpoint), karmaşıklık katsayısına göre dinamik olarak belirlenir ve altın oranlı bir marker ile görselleştirilir.
+--------------------------------------------------
+
+## SKL-V007: UNIVERSAL AGI FRONTIER & COGNITIVE MANIFOLDS
+
+​* 🛰️ Konsept: Genel Zeka (g-Factor) Simülasyonu, OOD (Dağıtım Dışı) Performans Analizi ve 3D Bilişsel Manifold Projeksiyonu.
+
+​* 🛰️ Cognitive Manifold Visualizer: MATH, LANG, SPATIAL ve SOCIAL alanlarını temsil eden dört ana bilişsel alan, saf trigonometrik matris dönüşümleri üzerinden 3D uzayda render edilir. g-Faktörü arttıkça, bu alanların arasındaki "Manifold Compression" (Manifold Sıkışması) artarak tekil bir zekaya (Singularity) geçişi simüle eder.
+
+​* 🛰️ System-2 Reasoning (Compute Budget): Modelin zorlu görevlerdeki (Far-OOD) başarısı, işlem gücü (Compute Budget) ve genel zeka faktörünün logaritmik bir fonksiyonu olarak hesaplanır.
+--------------------------------------------------
+
+​
+​## SKL-V008-ATTACHMENT (V4.8.0)
+
+​* 🛰️ Kategori: Psikolojik Modelleme & İlişkisel Topoloji
+
+* 🛰️Protokol: ATTACHMENT_FIELD_DYNAMICS (Branchless Affective Computing)
+
+* 🛰️ Çekirdek Mühendislik Parametreleri
+​The Secure Base Core: "Güvenli Üs" algısı, merkezcil bir çekim alanı olarak modellenmiştir. Merkeze olan mesafe; tutarlılık (Consistency), yakınlık arayışı (Proximity) ve reddedilme (Rejection) değişkenlerinin bir sonucudur.
+--------------------------------------------------
+
+
+## SKL-V0009: STOCHASTIC INFERENCE ENGINE (V3.3.0)
+
+​* 🛰️ Kategori: Tahminleme Analitiği & Hata Kararlılık Protokolü
+
+* 🛰️Protokol: BAYESIAN_CALIBRATION (Softmax & Entropy Driven Inference
+
+​* 🛰️ Entropy Mapping: Tahminin bilgi yükü (Entropy), modelin ne kadar "kararsız" olduğunu belirleyen ana metriktir.
+​2. Hata Dinamiği (Bias-Variance Tradeoff)
+​Model başarısı, karmaşıklık ekseninde bir optimizasyon meselesi olarak ele alınır:
+--------------------------------------------------
+
+
+## SKL-V010: INTEGRATED COGNITIVE & RELATIONAL HUB
+
+​* 🛰️ Konsept: Bağlanma Alan Teorisi, AGI g-Faktörü Simülasyonu ve Bilişsel Manifold Projeksiyonu.
+
+​* 🛰️ Attachment V13.5 Engine: İnsan ilişkilerindeki "Güvenli Üs" (Secure Base) dinamikleri, consistency ve rejection parametrelerine bağlı bir çekim alanı olarak modellenmiştir. RelationalFieldVisualizer, stres testi (Strange Situation) anında sistemin regülasyon hızını simüle eder.
+--------------------------------------------------
+
+
+
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
