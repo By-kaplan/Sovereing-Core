@@ -114,11 +114,11 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ## 🧠 SKL-0022: Neural Singularity & Cognitive Lattice
 * **Tanım:** Entropi inversiyonu ile bilişsel kafes zırhlama çekirdeği.
 * **Mühür:** Tekillik (Singularity) noktaları üzerinden sönümsüz veri akışı.
-
+--------------------------------------------------
 ## ⚖️ SKL-0023: Quantum Governance & Immutable Ledger
 * **Tanım:** Kuantum dirençli otonom hukuk ve sarsılmaz kayıt defteri.
 * **Denetim:** Legal-AI ile gerçek zamanlı risk analizi ve hash mühürleme.
-
+--------------------------------------------------
 ## SKL-V0001: Lingu-Logic & Neural Synapse Engine
 
 * 🛰️ TANIM: Nöro-Lojistik çekirdek üzerinden biyolojik dil edinimi ve sinaptik veri transferi simülasyonu.
