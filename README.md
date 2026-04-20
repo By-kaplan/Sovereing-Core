@@ -362,6 +362,8 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* Hafıza Kalıcılık Fonksiyonu (Retention Curve): R(t) = e^{-kt} \cdot 100
 Sistem, k katsayısını (unutma hızı) dinamik olarak optimize ederek bilginin kalıcı belleğe (Long-term Memory) aktarılma oranını hesaplar.
 ​
+--------------------------------------------------
+
 ## 🌍 SKL-V022: GEMINI MESH | ZKP PRIVACY LAYER 
 
 ​* Ham veriyi ifşa etmeden doğruluğunu matematiksel olarak kanıtlayan (Zero-Knowledge Proof) ve bu güvenli verinin ağ üzerindeki yayılımını simüle eden, yüksek yoğunluklu bir Kriptografik Güvenlik ve Mesh Analiz Ünitesidir.
@@ -371,6 +373,8 @@ Sistem, k katsayısını (unutma hızı) dinamik olarak optimize ederek bilginin
 
 ​* Entropi Sızıntı Analizi (\epsilon): Bilgi sızıntısı 1 - \sigma formülüyle hesaplanır. Sistem, veri izolasyonunu %99.99 (\sigma = 0.9999) seviyesinde tutarak kriptografik güvenliği mühürler.
 
+--------------------------------------------------
+
 ​## 🌍 SKL-V023: MODEL DOĞRULAMA VE GENELLEME ÜNİTESİ
 
 ​* DENETİM VE GÜVEN
@@ -378,6 +382,8 @@ Bu nefer, sistemin "vicdanı" olarak çalışır. Yazılan kodun sadece çalış
 
 ​* KARMAŞIKLIK VE MALİYET
 Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler. Bellek kullanımını ve işlemci üzerindeki baskıyı bir teraziye koyarak, en karmaşık hesaplamaların bile sistemin akıcılığını bozmamasını sağlar. Verinin içindeki boşlukları (seyreklik) ayıklayarak sadece anlamlı olana odaklanır.
+
+--------------------------------------------------
 
 ## 🌍 SKL-V024: ATTENTION-LOGIC & NEURAL ARCHITECTURE 
 
@@ -390,6 +396,7 @@ Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler.
 ​* Softmax Dağılımı: Her bir giriş elemanının diğerleri üzerindeki ağırlığı [0, 1] aralığına normalize edilir.
 ​Entropi Analizi: Dikkat ağırlıklarının ne kadar odaklanmış veya ne kadar dağınık olduğu - \sum p \log p formülüyle hesaplanarak sistemin "karar netliği" ölçülür.
 
+--------------------------------------------------
 
 ## 🌍 SKL-V025: SIM-TO-REAL REALITY GAP LOGIC
 
@@ -399,6 +406,7 @@ Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler.
 ​Sistem, teorik simülasyon (Sim) ile fiziksel uygulama (Real) arasındaki farkı şu lojik katmanlarla yönetir:
 ​Domain Randomization (DR): Sürtünme katsayısı (\mu) ve kütle varyansı gibi fiziksel parametreleri randomize ederek, modelin farklı çevresel koşullara karşı bağışıklık kazanmasını sağlar.
 
+--------------------------------------------------
 
 ## 🌍 SKL-V026: ERROR LOGIC - BIAS-VARIANCE TRADEOFF 
 
@@ -408,6 +416,7 @@ Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler.
 ​Sistem, toplam hata fonksiyonunu (Total Loss) şu üç bileşen üzerinden deşifre eder:
 ​Bias² (Önyargı/Sapma): Modelin öğrenme sürecindeki yapısal eksikliğini temsil eder. 100 \cdot e^{-0.5 \cdot M} denklemiyle modellenmiştir. Karmaşıklık arttıkça asimptotik olarak düşer.
 
+--------------------------------------------------
 
 ## 🌍 SKL-V027: AE-LOGIC - AUTOENCODER & DIMENSIONALITY REDUCTION 
 
@@ -417,6 +426,7 @@ Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler.
 ​Sistem, verinin "ruhunu" koruyarak sıkıştırma işlemini şu lojik katmanlarla yönetir:
 ​Encoder (Enformasyon Sıkıştırma): f(x) = z fonksiyonu ile n-boyutlu girişi, düşük boyutlu (z) manifolda haritalar. Bu süreçte yüksek frekanslı gürültü, darboğaz (bottleneck) kısıtı sayesinde filtrelenir.
 
+--------------------------------------------------
 
 ## 🌍 SKL-V028: NÖRO-ANLATI ZEKA MOTORU
 
@@ -429,6 +439,7 @@ Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler.
 ​* Semantik Rezonans: Veri bütünlüğünün, \Lambda katsayısının logaritmik tabanındaki ağırlığıyla çarpımı sonucunda elde edilen sinyalin şiddetini (Resonance) ölçer.
 ​Bilişsel Yük Kontrolü: Bilginin transferi sırasında harcanan enerjiyi minimize ederek "Cognitive Load" değerini stabil seviyede tutar.
 
+--------------------------------------------------
 
 ## 🌍 SKL-V029: AGNOSTIC FLUID OS
 
@@ -437,6 +448,8 @@ Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler.
 ​* Matematiksel Çekirdek: Akışkanlık ve Durum Paketi
 ​Sistem, ağın esnekliğini ve taşınabilirliğini şu formülasyonlarla yönetir:
 ​Akışkanlık Derecesi (\Phi): \Phi = \frac{Nodes \cdot Diversity}{Latency + 1} denklemiyle, ağın çevresel değişimlere karşı direncini ve işlem kapasitesini ölçer.
+
+--------------------------------------------------
 
 ## 🌍 SKL-V030: FORWARD-LOGIC AI 
 
@@ -449,7 +462,7 @@ Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler.
 ​* Bant Genişliği Tahmini (Bandwidth): Bellek bus üzerindeki anlık yükü (totalFlops \cdot 4) / 1e9 (GB/s) üzerinden normalize ederek donanım darboğazlarını tespit eder.
 ​Güven Katsayısı (Confidence): Argmax sınıfı üzerindeki olasılık yoğunluğunu 0.88 taban puanlı bir varyasyonla simüle ederek çıktı kararlılığını ölçer.
 
-
+--------------------------------------------------
 
 
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
