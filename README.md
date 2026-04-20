@@ -86,26 +86,32 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ## 🛰 SKL-SLC-0015: Sovereign Core Discovery Layer
 * **Tanım:** Evrensel veri topolojisi ve keşif katmanı.
 * **Core:** Non-Euclidean manifold analizi ve otonom veri haritalama.
+--------------------------------------------------
 
 ## 🌀 SKL-0016: Precision Extrapolation Engine
 * **Tanım:** Sembolik regresyon tabanlı dinamik formül türetim motoru.
 * **Core:** Statik denklemler yerine dinamik Lagrangian ekstrapolasyonu.
+--------------------------------------------------
 
 ## 🧠 SKL-0017: Continual Learning & Retention Kernel
 * **Tanım:** Katastrofik unutma (Catastrophic Forgetting) engelleme modülü.
 * **Mühür:** EWC ve GEM algoritmaları ile %99.8 hafıza tutarlılığı.
+--------------------------------------------------
 
 ## 🧬 SKL-0018: Neural Bio-Symmetry & Integration
 * **Tanım:** Biyometrik veri ve nöral sinaps senkronizasyon katmanı.
 * **Güvenlik:** Biyolojik kanıtlara dayalı otonom erişim mühürleme.
+--------------------------------------------------
 
 ## 📏 SKL-0019: Capacity Control & Reg-Logic
 * **Tanım:** Kapasite kontrol ve aşırı uyum (overfitting) analizörü.
 * **Mekanizma:** L1/L2 regülasyonu ve otonom dropout yönetimi.
+--------------------------------------------------
 
 ## 📉 SKL-0020: Gradient-Logic & Optimization Kernel
 * **Tanım:** Gradyan inişi trajektör analizi ve yakınsama denetimi.
 * **Motor:** Adam/SGD/Momentum simülasyonu ve izometrik SVG projeksiyonu.
+--------------------------------------------------
 
 ## ⚡ SKL-0021: Ephemeral-Mesh & Volatile Memory
 * **Tanım:** RAM tabanlı uçucu ağ mimarisi ve sanal anahtarlama.
