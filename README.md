@@ -205,7 +205,8 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 --------------------------------------------------
 
-​## ⚖️ SKL-V008: ATTACHMENT (V4.8.0)
+--------------------------------------------------
+## ⚖️ SKL-V008: ATTACHMENT (V4.8.0)
 
 ​* 🛰️ Kategori: Psikolojik Modelleme & İlişkisel Topoloji
 
