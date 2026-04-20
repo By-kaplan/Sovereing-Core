@@ -116,6 +116,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ## ⚡ SKL-0021: Ephemeral-Mesh & Volatile Memory
 * **Tanım:** RAM tabanlı uçucu ağ mimarisi ve sanal anahtarlama.
 * **Güvenlik:** Zero-Fill teknolojisi ile bellekten anlık veri imhası.
+--------------------------------------------------
 
 ## 🧠 SKL-0022: Neural Singularity & Cognitive Lattice
 * **Tanım:** Entropi inversiyonu ile bilişsel kafes zırhlama çekirdeği.
