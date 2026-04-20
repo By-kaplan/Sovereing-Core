@@ -152,7 +152,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * 📡 DENETİM: Geleneksel mimarilere kıyasla simüle edilen 12.4 pJ/Op enerji tasarrufu metriği üzerinden verimlilik analizi.
 * 
 --------------------------------------------------
-
+---
 ## ⚖️ SKL-V0003: V3.5.0: Engineer Control Center & DHO Core
 
 * 🛰️ TANIM: İkinci mertebeden diferansiyel denklem çözücü (DHO) tabanlı fiziksel modelleme ve faz uzayı analitik motoru.
@@ -164,7 +164,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * 📡 DENETİM: Equity Variance matrisi ile proje verimlilik skorlarının "Model Sadakati" (Fidelity) üzerindeki etkisini ölçen yönetim katmanı.
 * 
 --------------------------------------------------
-
+---
 ## ⚖️ SKL-V004: GRADIENT STABILITY & ACTIVATION ANALYZER
 
 ​* 🛰️ Konsept: Diferansiyel Analitik, Non-Lineer Manifold Projeksiyonu ve Gradyan Sönümlenme Analizi.
@@ -174,7 +174,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Doygunluk Analizi (Saturation Mapping): \text{grads} < 0.01 koşulunu sağlayan bölge oranını hesaplayarak, modelin öğrenme kapasitesindeki sönümlenme riskini bir "Stabilite Skoru"na dönüştürür.
 
 --------------------------------------------------
-
+---
 ## ⚖️ SKL-V005: CAREER MATCH & LOGISTICS ENGINE
 
 ​* 🛰️ Konsept: Algoritmik Kariyer Eşleştirme, Zaman Matrisi Çakışma Analizi ve Branchless Skorlama.
@@ -184,7 +184,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Dinamik Uyum Skoru (Fidelity Match): İşin gereksinimleri ile öğrencinin yetkinlikleri arasındaki mesafe, saf SVG üzerinden dairesel bir ilerleme çubuğuyla (Circular Progress) görselleştirilir.
 
 --------------------------------------------------
-
+---
 ## ⚖️ SKL-V006: BIAS-VARIANCE & GENERALIZATION INTEGRITY MONITOR
 
 ​* 🛰️ Konsept: Model Karmaşıklığı Analizi, Aşırı Öğrenme (Overfitting) Tespiti ve Regülarizasyon Etkisi.
@@ -194,7 +194,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Overfit Breakpoint Detection: Modelin genelleme kapasitesini yitirip ezberlemeye başladığı "Kırılma Noktası" (Breakpoint), karmaşıklık katsayısına göre dinamik olarak belirlenir ve altın oranlı bir marker ile görselleştirilir.
 
 --------------------------------------------------
-
+---
 ## ⚖️ SKL-V007: UNIVERSAL AGI FRONTIER & COGNITIVE MANIFOLDS
 
 ​* 🛰️ Konsept: Genel Zeka (g-Factor) Simülasyonu, OOD (Dağıtım Dışı) Performans Analizi ve 3D Bilişsel Manifold Projeksiyonu.
@@ -204,8 +204,8 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ System-2 Reasoning (Compute Budget): Modelin zorlu görevlerdeki (Far-OOD) başarısı, işlem gücü (Compute Budget) ve genel zeka faktörünün logaritmik bir fonksiyonu olarak hesaplanır.
 
 --------------------------------------------------
+---
 
---------------------------------------------------
 ## ⚖️ SKL-V008: ATTACHMENT (V4.8.0)
 
 ​* 🛰️ Kategori: Psikolojik Modelleme & İlişkisel Topoloji
@@ -216,7 +216,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 --------------------------------------------------
 
-
+---
 ## ⚖️ SKL-V0009: STOCHASTIC INFERENCE ENGINE (V3.3.0)
 
 ​* 🛰️ Kategori: Tahminleme Analitiği & Hata Kararlılık Protokolü
@@ -228,7 +228,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​Model başarısı, karmaşıklık ekseninde bir optimizasyon meselesi olarak ele alınır:
 
 --------------------------------------------------
-
+---
 ## ⚖️ SKL-V010: INTEGRATED COGNITIVE & RELATIONAL HUB
 
 ​* 🛰️ Konsept: Bağlanma Alan Teorisi, AGI g-Faktörü Simülasyonu ve Bilişsel Manifold Projeksiyonu.
@@ -236,7 +236,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Attachment V13.5 Engine: İnsan ilişkilerindeki "Güvenli Üs" (Secure Base) dinamikleri, consistency ve rejection parametrelerine bağlı bir çekim alanı olarak modellenmiştir. RelationalFieldVisualizer, stres testi (Strange Situation) anında sistemin regülasyon hızını simüle eder.
 
 --------------------------------------------------
-
+---
 ​## ⚖️ SKL-V011: TECHNICAL SPECIFICATION SHEET
 
 ​* Motor Mimarisi: Stochastic Dynamics Engine
@@ -247,7 +247,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* Momentum Physics: \Delta w = \gamma \cdot v - \eta \cdot \nabla L denklemi uygulanarak, yerel minimum noktalarında "salınım sönümleme" (oscillation damping) simüle edilir.
 
 --------------------------------------------------
-
+---
 ## 🛰️ SKL-V012: TENSOR & EQUITY ENGINE - TECHNICAL SPEC SHEET
 
 ​* Hesaplama Motoru (Compute Core):
@@ -258,7 +258,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* Memory Footprint: Bellek gereksinimini FP32 (4 \cdot \text{elements}) ve INT8 (1 \cdot \text{elements}) üzerinden MB cinsinden raporlar.
 
 --------------------------------------------------
-
+---
 ## 🛰️ SKL-V013: MLP-LOGIC AI -
 
 ​* Sistem, tanımlanan ağ mimarisinin teorik sınırlarını Doğrusal Cebir prensipleriyle hesaplar.
@@ -268,7 +268,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* FLOPs (Floating Point Operations): Her katman geçişi için 2 \cdot N_{in} \cdot N_{out} \cdot BatchSize operasyon yükü hesaplanarak sistemin işlemci maliyeti simüle edilir.
 
 ​--------------------------------------------------
-
+---
 ## 🛰️ SKL-V014: CLASSI-LOGIC ENGINE 
 
 ​* İkili sınıflandırma (Binary Classification) sistemlerinin karar mekanizmalarını, ayrıştırma keskinliğini ve istatistiksel güvenilirliğini valide eden bir İstatistiksel Karar Ünitesidir.
@@ -279,7 +279,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* Dinamik Confusion Matrix: \tau değişimiyle birlikte TP, FP, TN, FN değerlerini anlık olarak hesaplar.
 
 --------------------------------------------------
-
+---
 ## 🛰️ SKL-V015: GEMINI MESH GLOBAL SYNC 
 
 * Dağıtık ağ mimarilerinde (P2P Mesh) veri yayılım hızını, düğümler arası senkronizasyon hassasiyetini ve kolektif bağışıklık katsayılarını analiz eden bir Küresel Ağ Denetim Ünitesidir.
@@ -290,7 +290,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* Yayılım Fonksiyonu (\Lambda): S(t) = (1 - e^{-\lambda t}) \cdot 100 denklemiyle, zamana bağlı ağ doygunluğu (Saturation) hesaplanır. Burada \lambda = 0.85 katsayısı, P2P Gossip protokolünün yayılım hızını temsil eder.
 
 --------------------------------------------------
-
+---
 ## 🛰️ SKL-V016: TECH-GUIDE KNOWLEDGE ENGINE 
 
 * Kurumsal bilgi hiyerarşisini, prosedürel adım takibini ve donanım arıza matrislerini yöneten yüksek performanslı bir Kurumsal Hafıza Ünitesidir.
@@ -301,7 +301,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* Tokenization & Scoring: Sorgu metni atomik parçalara ayrılır. Başlık (+10), Etiketler (+5) ve İçerik (+1) üzerinden hesaplanan toplam skor, en alakalı rehberi listenin en üstüne taşır (O(n \cdot m) karmaşıklığı ile optimize edilmiştir).
 
 --------------------------------------------------
-
+---
 ## 🛰️ SKL-V017: NEURAL ANALYSIS CONTROL CENTER
 
 ​* Yapay sinir ağlarındaki aktivasyon fonksiyonu ötelemelerini (Bias Shift), kayıp manzarasını (Loss Landscape) ve operasyonel verimlilik dengesini eş zamanlı analiz eden bir Karar ve Optimizasyon Ünitesidir.
@@ -312,7 +312,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​Karar Sınırı Ötelemesi (Decision Boundary Shift): \Delta = -b / w denklemiyle, Bias (b) değerinin karar hiper-düzlemini X ekseni üzerinde ne kadar ötelediği hesaplanır. Bu, modelin "karar eşiği" hassasiyetini belirler.
 
 ​--------------------------------------------------
-
+---
 ​## 🛰️ SKL-V018: PERCEPTRON-LOGIC AI
 
 * Yapay sinir ağlarının temel yapı taşı olan Perceptron (Algılayıcı) ünitesini; sinaptik ağırlık etkileşimleri, bias ofsetleme ve doğrusal ayrıştırma prensipleriyle simüle eden bir Nöral Birim Ünitesidir.
@@ -325,7 +325,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​*Heaviside Activation: Aktivasyon katmanı, girdiyi f(z) = \begin{cases} 1 & z \ge 0 \\ 0 & z < 0 \end{cases} basamak fonksiyonundan geçirerek kararlı bir çıktı üretir.
 
 ​--------------------------------------------------
-
+---
 ​## 🛰️ SKL-V019: SOVEREIGN LOGISTICS UNIT
 
 * Sistemin operasyonel sürdürülebilirliğini sağlamak amacıyla geliştirilmiş, kısıtlı kaynaklar altında maksimum verimlilik hedefleyen bir Kaynak Yönetimi ve Lojistik Optimizasyon Ünitesidir.
@@ -337,7 +337,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​Envanter Uyumluluk Analizi: Mevcut stok ile hedef gereksinimleri \frac{M}{R} \cdot 10 ölçeğinde normalize eder.
 
 --------------------------------------------------
-
+---
 ## ⚖️ SKL-V020: ENGINEERING CONTROL CENTER
 
 ​* Sistemin operasyonel performansını, ekip verimliliğini ve algoritmik yakınsama süreçlerini tek bir merkezden yöneten yüksek yoğunluklu bir Komuta ve Optimizasyon Konsoludur.
@@ -348,5 +348,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* Gradyan İnişi Optimizasyonu (\nabla \mathcal{L}): MSE (Mean Squared Error) kayıp fonksiyonunun kısmi türevleri (dw, db) hesaplanarak, parametre uzayında (w, b) en düşük kayıp seviyesine iniş simüle edilir. Her adımda gradyan normu (||g||) hesaplanarak yakınsama hızı denetlenir.
 
 --------------------------------------------------
+---
 
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
+---
