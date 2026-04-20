@@ -205,14 +205,13 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 --------------------------------------------------
 
-​
 ​## SKL-V008-ATTACHMENT (V4.8.0)
 
-​🛰️ * Kategori: Psikolojik Modelleme & İlişkisel Topoloji
+​* 🛰️ Kategori: Psikolojik Modelleme & İlişkisel Topoloji
 
-🛰️ * Protokol: ATTACHMENT_FIELD_DYNAMICS (Branchless Affective Computing)
+* 🛰️ Protokol: ATTACHMENT_FIELD_DYNAMICS (Branchless Affective Computing)
 
-🛰️ * Çekirdek Mühendislik Parametreleri
+* 🛰️ Çekirdek Mühendislik Parametreleri
 ​The Secure Base Core: "Güvenli Üs" algısı, merkezcil bir çekim alanı olarak modellenmiştir. Merkeze olan mesafe; tutarlılık (Consistency), yakınlık arayışı (Proximity) ve reddedilme (Rejection) değişkenlerinin bir sonucudur.
 
 --------------------------------------------------
