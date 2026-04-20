@@ -211,8 +211,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 * 🛰️ Protokol: ATTACHMENT_FIELD_DYNAMICS (Branchless Affective Computing)
 
-* 🛰️ Çekirdek Mühendislik Parametreleri
-​The Secure Base Core: "Güvenli Üs" algısı, merkezcil bir çekim alanı olarak modellenmiştir. Merkeze olan mesafe; tutarlılık (Consistency), yakınlık arayışı (Proximity) ve reddedilme (Rejection) değişkenlerinin bir sonucudur.
+* 🛰️ Çekirdek Mühendislik Parametreleri The Secure Base Core: "Güvenli Üs" algısı, merkezcil bir çekim alanı olarak modellenmiştir. Merkeze olan mesafe; tutarlılık (Consistency), yakınlık arayışı (Proximity) ve reddedilme (Rejection) değişkenlerinin bir sonucudur.
 
 --------------------------------------------------
 
