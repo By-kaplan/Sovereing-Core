@@ -129,4 +129,14 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 * 📡 DENETİM: Arcuate Fasciculus yolu üzerinden gerçek zamanlı veri doğruluğu ve hassasiyet (Precision) analizi.
 --------------------------------------------------
+
+SKL-V0002: Asynchronous Neuromorphic Core & LIF Engine
+
+🛰️ TANIM: Asenkron pals iletimi (SNN) ve sinaptik plastiklik üzerinden olay tabanlı (event-driven) veri işleme çekirdeği.
+
+🛡️ GÜVENLİK: Dallanmasız "Reset Mask" denklemi ile yönetilen LIF (Leaky Integrate-and-Fire) membran potansiyeli stabilizasyonu.
+
+⚓ MÜHÜR: 80+ nöral düğümün saf trigonometrik matris dönüşümleri (sin/cos) ile 3D uzayda asenkron renderizasyonu.
+--------------------------------------------------
+📡 DENETİM: Geleneksel mimarilere kıyasla simüle edilen 12.4 pJ/Op enerji tasarrufu metriği üzerinden verimlilik analizi.
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
