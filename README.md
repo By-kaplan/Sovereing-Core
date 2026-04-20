@@ -168,4 +168,14 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Doygunluk Analizi (Saturation Mapping): \text{grads} < 0.01 koşulunu sağlayan bölge oranını hesaplayarak, modelin öğrenme kapasitesindeki sönümlenme riskini bir "Stabilite Skoru"na dönüştürür.
 
 --------------------------------------------------
+
+## SKL-V005: CAREER MATCH & LOGISTICS ENGINE
+
+​* 🛰️ Konsept: Algoritmik Kariyer Eşleştirme, Zaman Matrisi Çakışma Analizi ve Branchless Skorlama.
+
+​* 🛰️ Branchless Eligibility Scoring: Adayın uygunluğu, işlemciyi yoran if/else blokları yerine gpaMask ve yearMask gibi bitwise benzeri maskeleme yöntemleriyle hesaplanır.
+
+​* 🛰️ Dinamik Uyum Skoru (Fidelity Match): İşin gereksinimleri ile öğrencinin yetkinlikleri arasındaki mesafe, saf SVG üzerinden dairesel bir ilerleme çubuğuyla (Circular Progress) görselleştirilir.
+
+--------------------------------------------------
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
