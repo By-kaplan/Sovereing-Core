@@ -128,7 +128,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * **Denetim:** Legal-AI ile gerçek zamanlı risk analizi ve hash mühürleme.
   
 --------------------------------------------------
-
+---
 ## ⚖️ SKL-V0001: Lingu-Logic & Neural Synapse Engine
 
 * 🛰️ TANIM: Nöro-Lojistik çekirdek üzerinden biyolojik dil edinimi ve sinaptik veri transferi simülasyonu.
@@ -140,7 +140,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * 📡 DENETİM: Arcuate Fasciculus yolu üzerinden gerçek zamanlı veri doğruluğu ve hassasiyet (Precision) analizi.
 * 
 --------------------------------------------------
-
+---
 ## ⚖️ SKL-V0002: Asynchronous Neuromorphic Core & LIF Engine
 
 * 🛰️ TANIM: Asenkron pals iletimi (SNN) ve sinaptik plastiklik üzerinden olay tabanlı (event-driven) veri işleme çekirdeği.
