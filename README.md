@@ -158,4 +158,14 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 * 📡 DENETİM: Equity Variance matrisi ile proje verimlilik skorlarının "Model Sadakati" (Fidelity) üzerindeki etkisini ölçen yönetim katmanı.
 --------------------------------------------------
+
+## SKL-V004: GRADIENT STABILITY & ACTIVATION ANALYZER
+
+​* 🛰️ Konsept: Diferansiyel Analitik, Non-Lineer Manifold Projeksiyonu ve Gradyan Sönümlenme Analizi.
+
+​* 🛰️ Analitik Diferansiyel Çekirdeği: Sistem; ReLU, Sigmoid, Tanh ve LeakyReLU fonksiyonlarını sadece statik olarak çizmez, aynı zamanda her birinin birinci mertebeden türevini (\frac{dy}{dx}) eş zamanlı olarak hesaplayarak gradyan akışını (\text{flow}) simüle eder.
+
+​* 🛰️ Doygunluk Analizi (Saturation Mapping): \text{grads} < 0.01 koşulunu sağlayan bölge oranını hesaplayarak, modelin öğrenme kapasitesindeki sönümlenme riskini bir "Stabilite Skoru"na dönüştürür.
+
+--------------------------------------------------
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
