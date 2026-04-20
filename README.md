@@ -237,7 +237,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 --------------------------------------------------
 ---
-​## ⚖️ SKL-V011: TECHNICAL SPECIFICATION SHEET
+## ⚖️ SKL-V011: TECHNICAL SPECIFICATION SHEET
 
 ​* Motor Mimarisi: Stochastic Dynamics Engine
 ​V011, gradyan tabanlı optimizasyon süreçlerini simüle etmek için Deterministik Olmayan (Non-deterministic) bir matematik motoru kullanır.
@@ -313,6 +313,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 ​--------------------------------------------------
 ---
+
 ​## 🛰️ SKL-V018: PERCEPTRON-LOGIC AI
 
 * Yapay sinir ağlarının temel yapı taşı olan Perceptron (Algılayıcı) ünitesini; sinaptik ağırlık etkileşimleri, bias ofsetleme ve doğrusal ayrıştırma prensipleriyle simüle eden bir Nöral Birim Ünitesidir.
@@ -326,6 +327,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 ​--------------------------------------------------
 ---
+
 ​## 🛰️ SKL-V019: SOVEREIGN LOGISTICS UNIT
 
 * Sistemin operasyonel sürdürülebilirliğini sağlamak amacıyla geliştirilmiş, kısıtlı kaynaklar altında maksimum verimlilik hedefleyen bir Kaynak Yönetimi ve Lojistik Optimizasyon Ünitesidir.
