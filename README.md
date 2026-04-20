@@ -352,5 +352,105 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 --------------------------------------------------
 ---
 
+## 🌍 SKL-V021: FLUID CURRICULUM ENGINE
+
+​* Bilişsel yük dengesini (Cognitive Load) ve öğrenme ivmesini (Momentum) maksimize etmek amacıyla geliştirilmiş, Φ (Phi) Akış Katsayısı tabanlı bir Adaptif Müfredat ve Nöral Yönlendirme Ünitesidir.
+​
+* Matematiksel Model: Bilişsel Akış Teorisi ​Sistem, kullanıcının "Sıkılma" (Boredom) ve "Kaygı" (Anxiety) bölgeleri arasındaki dengeyi şu denklemlerle korur: ​Flow-Phi (Φ): Φ = 1 - \frac{|S - C|}{\max(S, C, 1)}
+(Burada S: Skill/Beceri, C: Challenge/Zorluk seviyesini temsil eder).
+
+​* Hafıza Kalıcılık Fonksiyonu (Retention Curve): R(t) = e^{-kt} \cdot 100
+Sistem, k katsayısını (unutma hızı) dinamik olarak optimize ederek bilginin kalıcı belleğe (Long-term Memory) aktarılma oranını hesaplar.
+​
+## 🌍 SKL-V022: GEMINI MESH | ZKP PRIVACY LAYER 
+
+​* Ham veriyi ifşa etmeden doğruluğunu matematiksel olarak kanıtlayan (Zero-Knowledge Proof) ve bu güvenli verinin ağ üzerindeki yayılımını simüle eden, yüksek yoğunluklu bir Kriptografik Güvenlik ve Mesh Analiz Ünitesidir.
+
+​* Matematiksel Çekirdek: zk-SNARK & Bilgi Teoremi
+​Sistem, mahremiyet ve veri bütünlüğünü iki ana lojik motor üzerinden yönetir: ​Groth16 İspat Simülasyonu: 50.000+ aritmetik kısıt (R1CS) üzerinden çalışır. Doğrulama süresi T_v = C \cdot 0.0012 denklemiyle normalize edilir. İspat boyutu 256 bit seviyesinde sabitlenerek ağ yükü minimize edilmiştir.
+
+​* Entropi Sızıntı Analizi (\epsilon): Bilgi sızıntısı 1 - \sigma formülüyle hesaplanır. Sistem, veri izolasyonunu %99.99 (\sigma = 0.9999) seviyesinde tutarak kriptografik güvenliği mühürler.
+
+​## 🌍 SKL-V023: MODEL DOĞRULAMA VE GENELLEME ÜNİTESİ
+
+​* DENETİM VE GÜVEN
+Bu nefer, sistemin "vicdanı" olarak çalışır. Yazılan kodun sadece çalışmasıyla yetinmez; o kodun yeni ve yabancı durumlara karşı ne kadar dayanıklı olduğunu sorgular. Sistemin kendi kendini kandırmasını (ezberlemesini) engellemek için her adımı çapraz sorguya çeker.
+
+​* KARMAŞIKLIK VE MALİYET
+Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler. Bellek kullanımını ve işlemci üzerindeki baskıyı bir teraziye koyarak, en karmaşık hesaplamaların bile sistemin akıcılığını bozmamasını sağlar. Verinin içindeki boşlukları (seyreklik) ayıklayarak sadece anlamlı olana odaklanır.
+
+## 🌍 SKL-V024: ATTENTION-LOGIC & NEURAL ARCHITECTURE 
+
+* Modern sinir ağlarının "Odaklanma" ve "Bağlamsal İlişki" kurma yeteneğini simüle eden, skaler çarpım dikkat mekanizması (Scaled Dot-Product Attention) tabanlı bir Bilişsel Mimari Analiz Ünitesidir.
+
+​* Matematiksel Çekirdek: Dikkat Rejimi Sistem, veriler arasındaki anlamsal korelasyonu Transformer mimarisinin kalbi olan şu matematiksel protokollerle yönetir:
+
+* Skaler Çarpım Dikkat (Scaled Dot-Product): QK^T matris çarpımı, \sqrt{d_k} faktörü ile ölçeklenerek varyans kontrol altına alınır. Bu, Softmax gradyanlarının doyuma ulaşmasını ve eğitimin kararsızlaşmasını engeller.
+
+​* Softmax Dağılımı: Her bir giriş elemanının diğerleri üzerindeki ağırlığı [0, 1] aralığına normalize edilir.
+​Entropi Analizi: Dikkat ağırlıklarının ne kadar odaklanmış veya ne kadar dağınık olduğu - \sum p \log p formülüyle hesaplanarak sistemin "karar netliği" ölçülür.
+
+
+## 🌍 SKL-V025: SIM-TO-REAL REALITY GAP LOGIC
+
+* Dijital ortamda kurgulanan teorik modellerin, fiziksel dünyanın kaotik ve gürültülü ortamına (Real World) aktarımı sırasında oluşan "Gerçeklik Boşluğunu" (Reality Gap) ölçen ve kompanse eden Yüksek Hassasiyetli Sağlam Kontrol (Robust Control) Ünitesidir.
+
+​* Matematiksel Çekirdek: Gerçeklik Boşluğu Analizi
+​Sistem, teorik simülasyon (Sim) ile fiziksel uygulama (Real) arasındaki farkı şu lojik katmanlarla yönetir:
+​Domain Randomization (DR): Sürtünme katsayısı (\mu) ve kütle varyansı gibi fiziksel parametreleri randomize ederek, modelin farklı çevresel koşullara karşı bağışıklık kazanmasını sağlar.
+
+
+## 🌍 SKL-V026: ERROR LOGIC - BIAS-VARIANCE TRADEOFF 
+
+* Sistemin öğrenme kapasitesini ve tahmin doğruluğunu belirleyen iki temel hata kaynağını (Sapma ve Varyans) matematiksel olarak ayrıştıran, sistem karmaşıklığı ile genelleme yeteneği arasındaki o kritik dengeyi (Sweet Spot) optimize eden bir İstatistiksel Karar Destek Ünitesidir.
+
+* Matematiksel Çekirdek: Hata Dekompozisyon Analizi
+​Sistem, toplam hata fonksiyonunu (Total Loss) şu üç bileşen üzerinden deşifre eder:
+​Bias² (Önyargı/Sapma): Modelin öğrenme sürecindeki yapısal eksikliğini temsil eder. 100 \cdot e^{-0.5 \cdot M} denklemiyle modellenmiştir. Karmaşıklık arttıkça asimptotik olarak düşer.
+
+
+## 🌍 SKL-V027: AE-LOGIC - AUTOENCODER & DIMENSIONALITY REDUCTION 
+
+* Yüksek boyutlu ham veriyi enformasyon teorisi prensipleriyle damıtan, gürültüyü (noise) elimine ederek verinin en saf halini temsil eden gizli bir uzaya (Latent Space) indirgeyen bir Boyut Küçültme ve Öznitelik Damıtma Ünitesidir.
+
+* Matematiksel Çekirdek: Bilgi Darboğazı ve Yeniden İnşa
+​Sistem, verinin "ruhunu" koruyarak sıkıştırma işlemini şu lojik katmanlarla yönetir:
+​Encoder (Enformasyon Sıkıştırma): f(x) = z fonksiyonu ile n-boyutlu girişi, düşük boyutlu (z) manifolda haritalar. Bu süreçte yüksek frekanslı gürültü, darboğaz (bottleneck) kısıtı sayesinde filtrelenir.
+
+
+## 🌍 SKL-V028: NÖRO-ANLATI ZEKA MOTORU
+
+* Ham veri setlerini nöro-semantik rezonans ve bilişsel psikoloji prensipleriyle işleyerek akılda kalıcılığı (\Lambda) maksimize eden, veriyi statik bir çıktıdan dinamik bir anlatı arkına (Narrative Arc) dönüştüren bir Bilişsel Mühendislik Ünitesidir.
+
+* Matematiksel Çekirdek: Lambda (\Lambda) ve Rezonans Formülasyonu
+​Sistem, bilginin nöral ağlarda tutunma kapasitesini şu matematiksel modellerle denetler:
+​Akılda Kalıcılık Katsayısı (\Lambda): Ret \cdot (1 + Val \cdot 0.25) formülüyle, duygusal değerlik ve hatırlanma oranı arasındaki sinerjiyi hesaplar.
+
+​* Semantik Rezonans: Veri bütünlüğünün, \Lambda katsayısının logaritmik tabanındaki ağırlığıyla çarpımı sonucunda elde edilen sinyalin şiddetini (Resonance) ölçer.
+​Bilişsel Yük Kontrolü: Bilginin transferi sırasında harcanan enerjiyi minimize ederek "Cognitive Load" değerini stabil seviyede tutar.
+
+
+## 🌍 SKL-V029: AGNOSTIC FLUID OS
+
+* Merkezi olmayan mimarilerde donanım bağımsızlığını (Agnosticism) ve sistem durumunun (State) ağ üzerinde bir sıvı gibi yer değiştirmesini sağlayan, yüksek dayanıklılığa sahip bir Akışkan Ağ ve Durum Göçü Katmanıdır.
+
+​* Matematiksel Çekirdek: Akışkanlık ve Durum Paketi
+​Sistem, ağın esnekliğini ve taşınabilirliğini şu formülasyonlarla yönetir:
+​Akışkanlık Derecesi (\Phi): \Phi = \frac{Nodes \cdot Diversity}{Latency + 1} denklemiyle, ağın çevresel değişimlere karşı direncini ve işlem kapasitesini ölçer.
+
+## 🌍 SKL-V030: FORWARD-LOGIC AI 
+
+* Yapay zeka inferans süreçlerini deterministik bir çerçevede atomlarına ayıran, matris operasyonlarını donanım seviyesinde simüle eden ve veri akışını izometrik tensör hacimlemesiyle doğrulayan bir İleri Besleme Denetim Ünitesidir.
+
+​* Matematiksel Çekirdek: Deterministik İnferans Analizi
+​Sistem, bir modelin ileri besleme (forward pass) performansını şu matematiksel modellerle denetler:
+​İşlem Yoğunluğu (Total FLOPs): 2 \cdot in \cdot out \cdot batchSize formülüyle, her katmandaki toplam kayan nokta operasyon sayısını milimetrik olarak hesaplar.
+
+​* Bant Genişliği Tahmini (Bandwidth): Bellek bus üzerindeki anlık yükü (totalFlops \cdot 4) / 1e9 (GB/s) üzerinden normalize ederek donanım darboğazlarını tespit eder.
+​Güven Katsayısı (Confidence): Argmax sınıfı üzerindeki olasılık yoğunluğunu 0.88 taban puanlı bir varyasyonla simüle ederek çıktı kararlılığını ölçer.
+
+
+
+
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
 ---
