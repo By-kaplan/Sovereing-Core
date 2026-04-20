@@ -224,7 +224,6 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 --------------------------------------------------
 
-
 ## SKL-V010: INTEGRATED COGNITIVE & RELATIONAL HUB
 
 ​* 🛰️ Konsept: Bağlanma Alan Teorisi, AGI g-Faktörü Simülasyonu ve Bilişsel Manifold Projeksiyonu.
@@ -233,6 +232,116 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 --------------------------------------------------
 
+​## SKL-V011: TECHNICAL SPECIFICATION SHEET
 
+​* Motor Mimarisi: Stochastic Dynamics Engine
+​V011, gradyan tabanlı optimizasyon süreçlerini simüle etmek için Deterministik Olmayan (Non-deterministic) bir matematik motoru kullanır.
+
+​* Gradient Calculation: f(w) = w^2 üzerinden \nabla L = 2w türev fonksiyonu ile kayıp vadisi hesaplanır.
+
+​* Momentum Physics: \Delta w = \gamma \cdot v - \eta \cdot \nabla L denklemi uygulanarak, yerel minimum noktalarında "salınım sönümleme" (oscillation damping) simüle edilir.
+
+--------------------------------------------------
+
+## 🛰️ SKL-V012: TENSOR & EQUITY ENGINE - TECHNICAL SPEC SHEET
+
+​* Hesaplama Motoru (Compute Core):
+​TensorLogic v1.2: Matris çarpımı (C = A \times B) operasyonlarını [M,N] \times [N,P] boyutlarında simüle eder.
+
+​* FLOPs Denklemi: 2 \cdot M \cdot N \cdot P formülü ile teorik işlem yükünü hesaplar.
+
+​* Memory Footprint: Bellek gereksinimini FP32 (4 \cdot \text{elements}) ve INT8 (1 \cdot \text{elements}) üzerinden MB cinsinden raporlar.
+
+--------------------------------------------------
+
+## 🛰️ SKL-V013: MLP-LOGIC AI -
+
+​* Sistem, tanımlanan ağ mimarisinin teorik sınırlarını Doğrusal Cebir prensipleriyle hesaplar.
+
+​* Parametre Formülasyonu: \sum_{i=1}^{L} (N_{i-1} \cdot N_i + N_i) denklemiyle her katman için ağırlıklar (weights) ve sapmalar (biases) toplamı bulunur.
+
+​* FLOPs (Floating Point Operations): Her katman geçişi için 2 \cdot N_{in} \cdot N_{out} \cdot BatchSize operasyon yükü hesaplanarak sistemin işlemci maliyeti simüle edilir.
+
+​--------------------------------------------------
+
+## 🛰️ SKL-V014: CLASSI-LOGIC ENGINE 
+
+​* İkili sınıflandırma (Binary Classification) sistemlerinin karar mekanizmalarını, ayrıştırma keskinliğini ve istatistiksel güvenilirliğini valide eden bir İstatistiksel Karar Ünitesidir.
+
+​* Karar Motoru: Threshold Optimization (\tau)
+​Sistem, olasılık yoğunluk fonksiyonu üzerinden her bir veri noktasını dinamik bir karar eşiğine göre (P(y=1|x) \ge \tau) sınıflandırır.
+
+​* Dinamik Confusion Matrix: \tau değişimiyle birlikte TP, FP, TN, FN değerlerini anlık olarak hesaplar.
+
+--------------------------------------------------
+
+## 🛰️ SKL-V015: GEMINI MESH GLOBAL SYNC 
+
+* Dağıtık ağ mimarilerinde (P2P Mesh) veri yayılım hızını, düğümler arası senkronizasyon hassasiyetini ve kolektif bağışıklık katsayılarını analiz eden bir Küresel Ağ Denetim Ünitesidir.
+
+​* Matematiksel Çekirdek: Dinamik Yayılım ve Varyans
+​Sistem, ağdaki veri akışını ve adalet dağılımını iki ana matematiksel motor üzerinden yönetir:
+
+​* Yayılım Fonksiyonu (\Lambda): S(t) = (1 - e^{-\lambda t}) \cdot 100 denklemiyle, zamana bağlı ağ doygunluğu (Saturation) hesaplanır. Burada \lambda = 0.85 katsayısı, P2P Gossip protokolünün yayılım hızını temsil eder.
+
+--------------------------------------------------
+
+## 🛰️ SKL-V016: TECH-GUIDE KNOWLEDGE ENGINE 
+
+* Kurumsal bilgi hiyerarşisini, prosedürel adım takibini ve donanım arıza matrislerini yöneten yüksek performanslı bir Kurumsal Hafıza Ünitesidir.
+
+* Matematiksel Çekirdek: Relevance Ranking Algorithm
+​Sistem, arama sorgularını basit bir metin eşleşmesinin ötesine taşıyarak ağırlıklı bir sıralama (Weighting) mekanizması kullanır.
+
+​* Tokenization & Scoring: Sorgu metni atomik parçalara ayrılır. Başlık (+10), Etiketler (+5) ve İçerik (+1) üzerinden hesaplanan toplam skor, en alakalı rehberi listenin en üstüne taşır (O(n \cdot m) karmaşıklığı ile optimize edilmiştir).
+
+--------------------------------------------------
+
+## 🛰️ SKL-V017: NEURAL ANALYSIS CONTROL CENTER
+
+​* Yapay sinir ağlarındaki aktivasyon fonksiyonu ötelemelerini (Bias Shift), kayıp manzarasını (Loss Landscape) ve operasyonel verimlilik dengesini eş zamanlı analiz eden bir Karar ve Optimizasyon Ünitesidir.
+
+​* Matematiksel Çekirdek: Bias & Activation Dynamics
+​Sistem, nöral ağlardaki karar sınırlarının stabilitesini ve gradyan akışını iki ana matematiksel model üzerinden yönetir:
+
+​Karar Sınırı Ötelemesi (Decision Boundary Shift): \Delta = -b / w denklemiyle, Bias (b) değerinin karar hiper-düzlemini X ekseni üzerinde ne kadar ötelediği hesaplanır. Bu, modelin "karar eşiği" hassasiyetini belirler.
+
+​--------------------------------------------------
+
+​## 🛰️ SKL-V018: PERCEPTRON-LOGIC AI
+
+* Yapay sinir ağlarının temel yapı taşı olan Perceptron (Algılayıcı) ünitesini; sinaptik ağırlık etkileşimleri, bias ofsetleme ve doğrusal ayrıştırma prensipleriyle simüle eden bir Nöral Birim Ünitesidir.
+
+​* Matematiksel Çekirdek: Nöral Agregasyon Motoru
+​Sistem, sinyalleri işlemek için klasik McCulloch-Pitts modelini temel alır:
+
+​* Weighted Sum (z): z = \sum_{i=1}^{n} (x_i \cdot w_i) + b denklemiyle, giriş vektörleri ile ağırlık vektörlerinin iç çarpımı hesaplanır.
+
+​*Heaviside Activation: Aktivasyon katmanı, girdiyi f(z) = \begin{cases} 1 & z \ge 0 \\ 0 & z < 0 \end{cases} basamak fonksiyonundan geçirerek kararlı bir çıktı üretir.
+
+​--------------------------------------------------
+
+​## 🛰️ SKL-V019: SOVEREIGN LOGISTICS UNIT
+
+* Sistemin operasyonel sürdürülebilirliğini sağlamak amacıyla geliştirilmiş, kısıtlı kaynaklar altında maksimum verimlilik hedefleyen bir Kaynak Yönetimi ve Lojistik Optimizasyon Ünitesidir.
+
+​* Matematiksel Çekirdek: Kaynak Optimizasyon Motoru
+​Sistem, girdileri sadece veri olarak değil, birer "maliyet kalemi" olarak ele alır:
+
+​* Verimlilik Katsayısı (Efficiency Index): E = \frac{\sum V}{\sum C} denklemiyle, besin değeri ile birim maliyet rasyosunu hesaplar.
+​Envanter Uyumluluk Analizi: Mevcut stok ile hedef gereksinimleri \frac{M}{R} \cdot 10 ölçeğinde normalize eder.
+​
+--------------------------------------------------
+
+## SKL-V020: ENGINEERING CONTROL CENTER
+
+​* Sistemin operasyonel performansını, ekip verimliliğini ve algoritmik yakınsama süreçlerini tek bir merkezden yöneten yüksek yoğunluklu bir Komuta ve Optimizasyon Konsoludur.
+
+​* Matematiksel Çekirdek: Gradyan Dinamiği ve Eşitlik Algoritması
+​Sistem, kararlılık analizini iki ana matematiksel katman üzerinden yürütür:
+
+​* Gradyan İnişi Optimizasyonu (\nabla \mathcal{L}): MSE (Mean Squared Error) kayıp fonksiyonunun kısmi türevleri (dw, db) hesaplanarak, parametre uzayında (w, b) en düşük kayıp seviyesine iniş simüle edilir. Her adımda gradyan normu (||g||) hesaplanarak yakınsama hızı denetlenir.
+
+--------------------------------------------------
 
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
