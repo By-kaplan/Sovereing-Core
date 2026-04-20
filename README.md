@@ -374,7 +374,7 @@ Sistem, k katsayısını (unutma hızı) dinamik olarak optimize ederek bilginin
 ​* Entropi Sızıntı Analizi (\epsilon): Bilgi sızıntısı 1 - \sigma formülüyle hesaplanır. Sistem, veri izolasyonunu %99.99 (\sigma = 0.9999) seviyesinde tutarak kriptografik güvenliği mühürler.
 
 --------------------------------------------------
-
+---
 ​## 🌍 SKL-V023: MODEL DOĞRULAMA VE GENELLEME ÜNİTESİ
 
 ​* DENETİM VE GÜVEN
@@ -383,6 +383,7 @@ Bu nefer, sistemin "vicdanı" olarak çalışır. Yazılan kodun sadece çalış
 ​* KARMAŞIKLIK VE MALİYET
 Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler. Bellek kullanımını ve işlemci üzerindeki baskıyı bir teraziye koyarak, en karmaşık hesaplamaların bile sistemin akıcılığını bozmamasını sağlar. Verinin içindeki boşlukları (seyreklik) ayıklayarak sadece anlamlı olana odaklanır.
 
+---
 --------------------------------------------------
 
 ## 🌍 SKL-V024: ATTENTION-LOGIC & NEURAL ARCHITECTURE 
