@@ -42,6 +42,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ---
 
 ## ⚡ SKL-0008: Cihaz Kod 1 (Expertiz)
+
 * **Tanım:** Donanım Bütünlüğü ve Teşhis Terminali.
 * **Analiz:** Hardware Diagnostics (88 nokta kontrolü) ve Matrix Aesthetic Engine.
 
