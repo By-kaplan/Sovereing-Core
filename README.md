@@ -126,7 +126,9 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ## ⚖️ SKL-0023: Quantum Governance & Immutable Ledger
 * **Tanım:** Kuantum dirençli otonom hukuk ve sarsılmaz kayıt defteri.
 * **Denetim:** Legal-AI ile gerçek zamanlı risk analizi ve hash mühürleme.
+  
 --------------------------------------------------
+
 ## SKL-V0001: Lingu-Logic & Neural Synapse Engine
 
 * 🛰️ TANIM: Nöro-Lojistik çekirdek üzerinden biyolojik dil edinimi ve sinaptik veri transferi simülasyonu.
@@ -136,6 +138,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * ⚓ MÜHÜR: Deterministik (BANNED_LOGIC) akış üzerinden 60Hz sabit frekansta sönümsüz sinyal üretimi.
 
 * 📡 DENETİM: Arcuate Fasciculus yolu üzerinden gerçek zamanlı veri doğruluğu ve hassasiyet (Precision) analizi.
+* 
 --------------------------------------------------
 
 ## SKL-V0002: Asynchronous Neuromorphic Core & LIF Engine
@@ -147,6 +150,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * ⚓ MÜHÜR: 80+ nöral düğümün saf trigonometrik matris dönüşümleri (sin/cos) ile 3D uzayda asenkron renderizasyonu.
 
 * 📡 DENETİM: Geleneksel mimarilere kıyasla simüle edilen 12.4 pJ/Op enerji tasarrufu metriği üzerinden verimlilik analizi.
+* 
 --------------------------------------------------
 
 ## SKL-V0003: V3.5.0: Engineer Control Center & DHO Core
@@ -158,6 +162,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * ⚓ MÜHÜR: Kütüphanesiz (No-Lib) Direct Path Rendering ile hesaplanan verilerin doğrudan SVG katmanına deterministik enjeksiyonu.
 
 * 📡 DENETİM: Equity Variance matrisi ile proje verimlilik skorlarının "Model Sadakati" (Fidelity) üzerindeki etkisini ölçen yönetim katmanı.
+* 
 --------------------------------------------------
 
 ## SKL-V004: GRADIENT STABILITY & ACTIVATION ANALYZER
