@@ -121,12 +121,12 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 SKL-V0001: Lingu-Logic & Neural Synapse Engine
 --------------------------------------------------
-TANIM: Nöro-Lojistik çekirdek üzerinden dil edinimi ve veri transferi simülasyonu. Biyolojik sinaps yollarını (Arcuate Fasciculus) matematiksel modelleme ile dijital birimlere aktaran ana motor.
+🛰️ TANIM: Nöro-Lojistik çekirdek üzerinden biyolojik dil edinimi ve sinaptik veri transferi simülasyonu.
 
-GÜVENLİK: Myelin Saturation dengelemesi ile aşırı yüklenmeyi önleyen sinirsel izolasyon protokolü.
+🛡️ GÜVENLİK: Myelin Saturation dengelemesi ile aşırı yüklenmeyi önleyen nöral izolasyon protokolü.
 
-MÜHÜR: Deterministik (Dallanmasız) mantık akışı üzerinden 60Hz sabit frekansta nöral sinyal üretimi.
+⚓ MÜHÜR: Deterministik (BANNED_LOGIC) akış üzerinden 60Hz sabit frekansta sönümsüz sinyal üretimi.
 
-DENETİM: BANNED_LOGIC katmanı ile Branch Prediction yükünün %0 seviyesine indirilmesi ve işlemci hassasiyetinin (Precision) korunması.
+📡 DENETİM: Arcuate Fasciculus yolu üzerinden gerçek zamanlı veri doğruluğu ve hassasiyet (Precision) analizi.
 
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
