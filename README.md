@@ -21,6 +21,18 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 ---
 
+## 🌐 SKL-0002: TrendRadar Intelligence & Strategic Scoring Engine
+
+* 🛰️ TANIM: Global sinyal ağlarından (Intel Flow) gelen patent ve akademik verileri otonom olarak skorlayan istihbarat motoru.
+
+* 🛡️ GÜVENLİK: Kaynak güvenilirliği ve anahtar kelime frekansı üzerinden gürültüyü (noise) filtreleyen "Kaplan Logic" doğrulama katmanı.
+
+* ⚓ MÜHÜR: Trend İvmesi (ΔV) ve Stratejik Skorlama (0-100) üzerinden veriyi operasyonel istihbarata dönüştüren mühürlü algoritma.
+
+* 📡 DENETİM: useMemo optimizasyonu ile en düşük CPU yükünde çalışan, 100k+ dosya kapasiteli çapraz referanslı denetim protokolü.
+
+---
+
 ## 📦 SKL-0003: CampusTask Logistics Engine
 * **Tanım:** Kampüs içi otonom görev dağıtımı ve lojistik optimizasyon katmanı.
 * **Core:** Mesafe ve aciliyet analizleri **Kaplan Logic** ile standardize edilmiştir.
