@@ -186,6 +186,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Branchless Overfit Simulation: Eğitim ve doğrulama kayıpları (L_{train}, L_{val}), karmaşıklık ve gürültü parametrelerine bağlı olarak dallanmasız bir overfitMask üzerinden hesaplanır.
 
 ​* 🛰️ Overfit Breakpoint Detection: Modelin genelleme kapasitesini yitirip ezberlemeye başladığı "Kırılma Noktası" (Breakpoint), karmaşıklık katsayısına göre dinamik olarak belirlenir ve altın oranlı bir marker ile görselleştirilir.
+
 --------------------------------------------------
 
 ## SKL-V007: UNIVERSAL AGI FRONTIER & COGNITIVE MANIFOLDS
@@ -195,6 +196,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Cognitive Manifold Visualizer: MATH, LANG, SPATIAL ve SOCIAL alanlarını temsil eden dört ana bilişsel alan, saf trigonometrik matris dönüşümleri üzerinden 3D uzayda render edilir. g-Faktörü arttıkça, bu alanların arasındaki "Manifold Compression" (Manifold Sıkışması) artarak tekil bir zekaya (Singularity) geçişi simüle eder.
 
 ​* 🛰️ System-2 Reasoning (Compute Budget): Modelin zorlu görevlerdeki (Far-OOD) başarısı, işlem gücü (Compute Budget) ve genel zeka faktörünün logaritmik bir fonksiyonu olarak hesaplanır.
+
 --------------------------------------------------
 
 ​
@@ -206,6 +208,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 * 🛰️ Çekirdek Mühendislik Parametreleri
 ​The Secure Base Core: "Güvenli Üs" algısı, merkezcil bir çekim alanı olarak modellenmiştir. Merkeze olan mesafe; tutarlılık (Consistency), yakınlık arayışı (Proximity) ve reddedilme (Rejection) değişkenlerinin bir sonucudur.
+
 --------------------------------------------------
 
 
@@ -218,6 +221,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Entropy Mapping: Tahminin bilgi yükü (Entropy), modelin ne kadar "kararsız" olduğunu belirleyen ana metriktir.
 ​2. Hata Dinamiği (Bias-Variance Tradeoff)
 ​Model başarısı, karmaşıklık ekseninde bir optimizasyon meselesi olarak ele alınır:
+
 --------------------------------------------------
 
 
@@ -226,6 +230,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ​* 🛰️ Konsept: Bağlanma Alan Teorisi, AGI g-Faktörü Simülasyonu ve Bilişsel Manifold Projeksiyonu.
 
 ​* 🛰️ Attachment V13.5 Engine: İnsan ilişkilerindeki "Güvenli Üs" (Secure Base) dinamikleri, consistency ve rejection parametrelerine bağlı bir çekim alanı olarak modellenmiştir. RelationalFieldVisualizer, stres testi (Strange Situation) anında sistemin regülasyon hızını simüle eder.
+
 --------------------------------------------------
 
 
