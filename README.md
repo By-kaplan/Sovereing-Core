@@ -119,14 +119,14 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * **Tanım:** Kuantum dirençli otonom hukuk ve sarsılmaz kayıt defteri.
 * **Denetim:** Legal-AI ile gerçek zamanlı risk analizi ve hash mühürleme.
 
-SKL-V0001: Lingu-Logic & Neural Synapse Engine
+## SKL-V0001: Lingu-Logic & Neural Synapse Engine
 --------------------------------------------------
-🛰️ TANIM: Nöro-Lojistik çekirdek üzerinden biyolojik dil edinimi ve sinaptik veri transferi simülasyonu.
+* 🛰️ TANIM: Nöro-Lojistik çekirdek üzerinden biyolojik dil edinimi ve sinaptik veri transferi simülasyonu.
 
-🛡️ GÜVENLİK: Myelin Saturation dengelemesi ile aşırı yüklenmeyi önleyen nöral izolasyon protokolü.
+* 🛡️ GÜVENLİK: Myelin Saturation dengelemesi ile aşırı yüklenmeyi önleyen nöral izolasyon protokolü.
 
-⚓ MÜHÜR: Deterministik (BANNED_LOGIC) akış üzerinden 60Hz sabit frekansta sönümsüz sinyal üretimi.
+* ⚓ MÜHÜR: Deterministik (BANNED_LOGIC) akış üzerinden 60Hz sabit frekansta sönümsüz sinyal üretimi.
 
-📡 DENETİM: Arcuate Fasciculus yolu üzerinden gerçek zamanlı veri doğruluğu ve hassasiyet (Precision) analizi.
+* 📡 DENETİM: Arcuate Fasciculus yolu üzerinden gerçek zamanlı veri doğruluğu ve hassasiyet (Precision) analizi.
 
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
