@@ -120,7 +120,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * **Denetim:** Legal-AI ile gerçek zamanlı risk analizi ve hash mühürleme.
 
 ## SKL-V0001: Lingu-Logic & Neural Synapse Engine
---------------------------------------------------
+
 * 🛰️ TANIM: Nöro-Lojistik çekirdek üzerinden biyolojik dil edinimi ve sinaptik veri transferi simülasyonu.
 
 * 🛡️ GÜVENLİK: Myelin Saturation dengelemesi ile aşırı yüklenmeyi önleyen nöral izolasyon protokolü.
@@ -128,5 +128,5 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * ⚓ MÜHÜR: Deterministik (BANNED_LOGIC) akış üzerinden 60Hz sabit frekansta sönümsüz sinyal üretimi.
 
 * 📡 DENETİM: Arcuate Fasciculus yolu üzerinden gerçek zamanlı veri doğruluğu ve hassasiyet (Precision) analizi.
-
+--------------------------------------------------
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
