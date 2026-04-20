@@ -144,6 +144,18 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 * 🛡️ GÜVENLİK: Dallanmasız "Reset Mask" denklemi ile yönetilen LIF (Leaky Integrate-and-Fire) membran potansiyeli stabilizasyonu.
 
 * ⚓ MÜHÜR: 80+ nöral düğümün saf trigonometrik matris dönüşümleri (sin/cos) ile 3D uzayda asenkron renderizasyonu.
---------------------------------------------------
+
 📡 DENETİM: Geleneksel mimarilere kıyasla simüle edilen 12.4 pJ/Op enerji tasarrufu metriği üzerinden verimlilik analizi.
+--------------------------------------------------
+
+## SKL-V3.5.0: Engineer Control Center & DHO Core
+
+* 🛰️ TANIM: İkinci mertebeden diferansiyel denklem çözücü (DHO) tabanlı fiziksel modelleme ve faz uzayı analitik motoru.
+
+* 🛡️ GÜVENLİK: Hamiltonian enerji analizi ve RMSE yakınsama oranları üzerinden sistemin termodinamik kararlılık denetimi.
+
+* ⚓ MÜHÜR: Kütüphanesiz (No-Lib) Direct Path Rendering ile hesaplanan verilerin doğrudan SVG katmanına deterministik enjeksiyonu.
+
+* 📡 DENETİM: Equity Variance matrisi ile proje verimlilik skorlarının "Model Sadakati" (Fidelity) üzerindeki etkisini ölçen yönetim katmanı.
+--------------------------------------------------
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
