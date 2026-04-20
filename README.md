@@ -145,10 +145,10 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 * ⚓ MÜHÜR: 80+ nöral düğümün saf trigonometrik matris dönüşümleri (sin/cos) ile 3D uzayda asenkron renderizasyonu.
 
-📡 DENETİM: Geleneksel mimarilere kıyasla simüle edilen 12.4 pJ/Op enerji tasarrufu metriği üzerinden verimlilik analizi.
+* 📡 DENETİM: Geleneksel mimarilere kıyasla simüle edilen 12.4 pJ/Op enerji tasarrufu metriği üzerinden verimlilik analizi.
 --------------------------------------------------
 
-## SKL-V3.5.0: Engineer Control Center & DHO Core
+## SKL-V0003: V3.5.0: Engineer Control Center & DHO Core
 
 * 🛰️ TANIM: İkinci mertebeden diferansiyel denklem çözücü (DHO) tabanlı fiziksel modelleme ve faz uzayı analitik motoru.
 
