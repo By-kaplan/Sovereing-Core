@@ -45,8 +45,8 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 ---
 
-## 🖥️ SKL-0005:
-* Analog-Sensory Bridge: Fiziksel dünyadaki analog veriler (Ortam sıcaklığı, EM gürültüsü, titreşim) artık siber güvenlik parametreleri olarak işleniyor. 
+## 🖥️ SKL-0005: Analog-Sensory Bridge:
+*  Fiziksel dünyadaki analog veriler (Ortam sıcaklığı, EM gürültüsü, titreşim) artık siber güvenlik parametreleri olarak işleniyor. 
 
 * Sıcaklık artışı ağ entropisini (hızını) artırırken, EM gürültüsü görsel jitter ve parazit simülasyonunu tetikler.
 
