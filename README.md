@@ -315,7 +315,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ---
 
 ​## 🛰️ SKL-V018: PERCEPTRON-LOGIC AI
-
+---
 * Yapay sinir ağlarının temel yapı taşı olan Perceptron (Algılayıcı) ünitesini; sinaptik ağırlık etkileşimleri, bias ofsetleme ve doğrusal ayrıştırma prensipleriyle simüle eden bir Nöral Birim Ünitesidir.
 
 ​* Matematiksel Çekirdek: Nöral Agregasyon Motoru
@@ -329,7 +329,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 ---
 
 ​## 🛰️ SKL-V019: SOVEREIGN LOGISTICS UNIT
-
+---
 * Sistemin operasyonel sürdürülebilirliğini sağlamak amacıyla geliştirilmiş, kısıtlı kaynaklar altında maksimum verimlilik hedefleyen bir Kaynak Yönetimi ve Lojistik Optimizasyon Ünitesidir.
 
 ​* Matematiksel Çekirdek: Kaynak Optimizasyon Motoru
