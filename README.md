@@ -335,7 +335,7 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 
 ​* Verimlilik Katsayısı (Efficiency Index): E = \frac{\sum V}{\sum C} denklemiyle, besin değeri ile birim maliyet rasyosunu hesaplar.
 ​Envanter Uyumluluk Analizi: Mevcut stok ile hedef gereksinimleri \frac{M}{R} \cdot 10 ölçeğinde normalize eder.
-​
+
 --------------------------------------------------
 
 ## ⚖️ SKL-V020: ENGINEERING CONTROL CENTER
