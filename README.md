@@ -488,6 +488,198 @@ Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler.
 
 --------------------------------------------------
 
+## 🌍 SKL-V031: NEURAL SYNERGY ENGINE 
+
+* Yapay zeka modellerinin karar alma süreçlerini şeffaflaştıran, gradyan tabanlı atıf analizi ve SHAP (Sharpley Additive Explanations) metodolojisini deterministik bir mimariyle birleştiren Çok Boyutlu Açıklanabilirlik (XAI) ve Nöral Sinerji Denetleyicisidir.
+
+​* Matematiksel Çekirdek: Atıf ve Sadakat Analizi
+​Sistem, model tahminlerini etkileyen parametreleri şu teknik modellerle analiz eder:
+​Integrated Attribution (Simüle SHAP): Özelliklerin karar üzerindeki marjinal katkısını, baz değer (E[f(x)] = 0.5) üzerinden baseShap \cdot \nabla f etkileşimiyle hesaplar.
+
+
+## 🌍 🛰️ SKL-V032: TRANSFORMER LOGIC ENGINE 
+
+​* Modern derin öğrenme mimarilerinin temel taşı olan "Self-Attention" mekanizmasını ve Transformer blok hiyerarşisini deterministik parametre hesaplamalarıyla simüle eden bir Paralel İşlem ve Mimari Denetim Ünitesidir.
+
+​* Matematiksel Çekirdek: Parametre ve Karmaşıklık Analizi
+​Sistem, Transformer mimarisinin yapısal yükünü şu matematiksel modellerle denetler:
+​Parametre Dağılımı: Vocab \cdot d_{model} (Embedding), N \cdot 4d_{model}^2 (Attention) ve N \cdot 2d_{model}d_{ff} (FFN) bileşenlerinin toplamını alarak modelin toplam ağırlık kütlesini (total) hesaplar.
+
+
+## 🌍 SKL-V033: ENGINEER CONTROL CENTER (ECC) 
+
+​* Ekip verimliliğini deterministik metriklerle ölçen ve derin öğrenme eğitim süreçlerini (loss, gradyan, VRAM) simüle eden bir Mühendislik Denetim ve Optimizasyon Panelidir.
+
+​* Matematiksel Çekirdek ve Mantık Motoru
+​Sistem, iki ana kurgu üzerinden veri işlemektedir:
+​Training Logic Engine: Gradyan inişi sürecini Loss = 2.0 \cdot e^{-0.2 \cdot epoch} + 0.1 denklemiyle simüle eder. Öğrenme katsayısı (\eta) ve yığın boyutu (Batch Size) arasındaki korelasyonu VRAM tüketimine yansıtarak kaynak tahmini yapar.
+
+
+## 🌍 SKL-V034: ECC (LINEAR-LOGIC)
+
+​* Mühendis Kontrol Merkezi (ECC) mimarisini ekonometrik tahminleme ve doğrusal regresyon yetenekleriyle genişleten, v3.5.0-LINEAR sürümlü bir istatistiksel analiz modülüdür.
+
+​* Matematiksel Çekirdek: OLS Optimizasyon Motoru
+​Sistem, veriler arasındaki ilişkiyi Sıradan En Küçük Kareler (Ordinary Least Squares - OLS) metodolojisiyle çözümler:
+​Regresyon Analizi: y = \beta_0 + \beta_1x + \epsilon modelini kullanarak \beta_1 (eğim) ve \beta_0 (kesim) katsayılarını deterministik olarak hesaplar.
+
+
+## 🌍 SKL-V035: ECC (WEIGHT-LOGIC) 
+
+* Mühendis Kontrol Merkezi (ECC) ekosistemini Lineer Cebir ve Optimizasyon Teorisi katmanıyla zirveye taşıyan, v3.6.0-WEIGHT sürümlü bir sinaptik analiz protokolüdür.
+
+​* Matematiksel Çekirdek: Sinaptik Optimizasyon Motoru
+​Sistem, karar verme mekanizmalarını ve takım verimliliğini Ağırlık Tensörleri (W) üzerinden yönetir:
+​Xavier Initialization: Başlangıç ağırlıklarını Var(W) = \frac{2}{n_{in} + n_{out}} formülasyonuyla dağıtarak gradyan patlamalarını engeller.
+
+
+## 🌍 SKL-V036: ECC (BACKPROP-LOGIC)
+
+* Mühendis Kontrol Merkezi (ECC) ekosisteminin karar verme mekanizmalarının altında yatan Diferansiyel Zincir Kuralı ve Hata Geri Yayılımı (Backpropagation) süreçlerini analiz eden, v4.2.0-BACKPROP sürümlü bir simülasyon protokolüdür.
+
+*  Matematiksel Çekirdek: Autograd Diferansiyel Motoru
+​Sistem, bir yapay sinir ağının öğrenme sürecindeki atomik işlemleri matematiksel olarak modeller:
+​Zincir Kuralı (Chain\ Rule): Toplam kaybın (\mathcal{L}), parametrelere göre türevi olan \frac{\partial \mathcal{L}}{\partial w} değerini, katmanlar boyunca diferansiyel operatörlerin çarpımı şeklinde hesaplar.
+
+
+
+## 🌍 SKL-V037: CNN-LOGIC AI
+
+* Mühendis Kontrol Merkezi'nin (ECC) operasyonel sahadaki gözü olarak işlev gören, görsel veriyi mekansal tensör yığınlarına dönüştüren ve evrişimli sinir ağlarını (CNN) simüle eden v3.0.0-CNN sürümlü bir mekansal geometri modülüdür.
+
+* Matematiksel Çekirdek: Spatial Tensor Logic
+​Sistem, evrişim katmanlarının mekansal ve hesaplamalı yükünü deterministik denklemlerle analiz eder:
+​Çıkış Boyutu (Spatial Resolution): O = \lfloor \frac{W - f + 2P}{S} \rfloor + 1 formülüyle, giriş verisinin katmanlar arası boyutsal değişimini hesaplar.
+
+
+## 🌍 SKL-V038: RNN-LOGIC AI
+
+​*  Mühendis Kontrol Merkezi'nin (ECC) zamansal derinliğini yöneten, veriyi bir dizi (sequence) olarak işleyip geçmiş bilgiyi bugüne taşıyan v4.5.0-RNN sürümlü bir özyinelemeli durum simülatörüdür.
+
+* Matematiksel Çekirdek: Özyinelemeli Durum Motoru
+​Sistem, özyinelemeli sinir ağlarının (RNN) temelini oluşturan Gizli Durum (h_t) güncellemelerini deterministik denklemlerle modeller:
+​Durum Güncelleme Denklemi: h_t = \tanh(W_{hh} h_{t-1} + W_{xh} x_t + b_h) formülüyle, sistemin zamansal hafızasını ve giriş verisiyle olan etkileşimini hesaplar.
+
+
+## 🌍 SKL-V039: LSTM-LOGIC ENGINE 
+
+* Mühendis Kontrol Merkezi'nin (ECC) zamansal derinlikteki sinyal kaybını (Vanishing Gradient) önlemek ve seçici hafıza yönetimi sağlamak amacıyla tasarlanmış, v5.0.0-LSTM sürümlü bir sinaptik kapılama simülatörüdür.
+
+​* Matematiksel Çekirdek: Gating Mechanism & Cell State
+​Sistem, uzun vadeli bağımlılıkları korumak için üç ana kapı ve bir doğrusal bellek hattı üzerinden çalışır:
+​Unutma Kapısı (f_t): \sigma(W_f \cdot [h_{t-1}, x_t] + b_f) denklemiyle, önceki hücre durumundan (C_{t-1}) nelerin atılacağına karar verir.
+​Giriş Kapısı (i_t): Yeni bilginin ne kadarının hücre durumuna ekleneceğini modüle eder.
+
+
+## 🌍 SKL-V040: NLP-LOGIC ENGINE 
+
+* Mühendis Kontrol Merkezi'nin (ECC) semantik algı katmanını oluşturan, dili istatistiksel bir dağılım ve çok boyutlu bir vektör uzayı olarak modelleyen v2.5.0-NLP sürümlü bir anlamsal analiz modülüdür.
+
+​* Matematiksel Çekirdek: Semantic & Latent Logic
+​Sistem, dilin geometrik yapısını ve olasılıksal dağılımını üç ana teorik sütun üzerinde işler:
+​Vektör Cebiri (Word Embeddings): Kelimeleri d_{model} = 512 boyutlu bir uzayda temsil eder. "Kral - Erkek + Kadın = Kraliçe" denkleminde olduğu gibi, kavramlar arası anlamsal ilişkileri vektör uzaklıkları (L2 Normu) üzerinden hesaplar.
+
+
+
+## 🌍 SKL-V041: TRANSFORMER-LOGIC ENGINE 
+
+* Mühendis Kontrol Merkezi'nin (ECC) bilişsel zirvesini temsil eden, veriler arasındaki uzak ve karmaşık ilişkileri "dikkat" mekanizmasıyla paralel olarak çözümleyen v4.0.0-TRANSFORMER sürümlü bir çok başlı dikkat simülatörüdür.
+
+* Matematiksel Çekirdek: Multi-Head Attention & Softmax
+​Sistem, modern yapay zekanın "dikkat" (attention) paradigmasını deterministik algoritmalarla modeller:
+​Ölçeklendirilmiş Nokta Çarpımı (Scaled Dot-Product): Sorgu (Query) ve Anahtar (Key) vektörleri arasındaki korelasyonu \text{Score} = \text{Softmax}(\frac{QK^T}{\sqrt{d_k}}) denklemiyle hesaplar. Bölme işlemi (1/\sqrt{d_k}), gradyanların aşırı büyümesini engellemek için kullanılan kritik bir normalizasyon aşamasıdır.
+
+
+
+## 🌍 SKL-V042: EMBEDDING-LOGIC 2D
+
+* Mühendis Kontrol Merkezi'nin (ECC) çok boyutlu veri kümelerini görselleştirme katmanını oluşturan, yüksek boyutlu semantik vektörleri (Embeddings) düşük donanım yüküyle temsil eden v1.0.0-2D-VECTOR sürümlü bir grafik motorudur.
+
+* Matematiksel Çekirdek: Dinamik Parçacık Fiziği
+​Sistem, veriyi statik noktalar yerine "Ataletsel Vektörler" olarak işleyerek uzaysal bir derinlik yaratır:
+​Merkeze Yönelim (Centripetal Attraction): Her veri noktası (token), kendi küme merkezine (baseX, baseY) doğru bir geri çekilme kuvvetine tabidir. Bu kuvvet, parçacığın hız vektörü (speedX, speedY) ile dengelenerek stabil bir "Veri Bulutu" oluşturur.
+
+​* Öklidyen Bağlantı Ağı: Parçacıklar arası mesafe (d < 40px) olduğunda tetiklenen dinamik çizgiler, veri kümeleri içindeki yerel yoğunluğu (Local Density) ve topolojik yapıyı görselleştirir.
+
+
+
+## 🌍 SKL-V043: NORM-LOGIC AI 
+
+* Mühendis Kontrol Merkezi'nin (ECC) sayısal stabilite denetçisi olarak görev yapan, optimizasyon yüzeylerindeki topolojik bozulmaları ve gradyan salınımlarını analiz eden v1.5.0-NORM sürümlü bir istatistiksel analiz laboratuvarıdır.
+
+* Matematiksel Çekirdek: Hessian Koşullanması
+​Sistem, optimizasyon sürecinin hızını ve kararlılığını belirleyen Hessian Matrisi geometrisini şu denklemlerle modeller:
+​Koşul Sayısı (\kappa): Özellik ölçekleri arasındaki oran (\max / \min) üzerinden hesaplanır. \kappa \gg 1 durumu, yüzeyin eliptik bir "dar vadi" formuna girmesine ve gradyanların zikzak çizmesine neden olur.
+
+
+
+## 🌍 SKL-V044: TRANSFER-LOGIC ENGINE
+
+* Mühendis Kontrol Merkezi'nin (ECC) bilgi transferi ve model adaptasyon katmanını yöneten, önceden eğitilmiş devasa mimarilerin (Pre-trained Models) spesifik görevlere optimizasyonunu denetleyen v2.0.0-TRANSFER sürümlü bir bilgi mirası analiz sistemidir.
+
+* Matematiksel Çekirdek: Diferansiyel Bilgi Mirası
+​Sistem, bir modelin geçmiş tecrübesini yeni bir alana aktarırken oluşan verimliliği şu parametrelerle modeller:
+​Bilgi Mirası Skoru (Inheritance Score): DomainSimilarity \times (1 - \sqrt{LR}) \times 100 formülüyle hesaplanır. Bu skor, kaynak modelin (Teacher) öznitelik uzayının, hedef görev (Student) için ne kadar korunabildiğini nicelleştirir.
+
+
+
+## 🌍 SKL-V045: ATTENTION-LOGIC ENGINE
+
+* Mühendis Kontrol Merkezi'nin (ECC) bilişsel çekirdeğini oluşturan, dizisel veriler arasındaki anlamsal ilişkileri dinamik ağırlıklandırma (Dynamic Weighting) yöntemiyle çözümleyen v1.0.0-ATTENTION sürümlü bir self-attention (öz-dikkat) simülatörüdür.
+
+* Matematiksel Çekirdek: Ölçeklendirilmiş Nokta Çarpımı
+​Sistem, veriler arasındaki korelasyonu Transformer mimarisinin altın standardı olan şu algoritma dizisiyle yönetir:
+​Vektör Projeksiyonu: Girdi dizisi Sorgu (Q), Anahtar (K) ve Değer (V) uzaylarına izdüşürülür.
+
+
+## 🌍 SKL-V046: POSITIONAL-LOGIC AI 
+
+* Mühendis Kontrol Merkezi'nin (ECC) geometrik koordinat enjeksiyon birimi olarak görev yapan, dizisel verilerin (sequence) mekansal hiyerarşisini trigonometrik dalga formları üzerinden modelleyen v1.0.0-POSITIONAL sürümlü bir sinyal işleme laboratuvarıdır.
+
+​* Matematiksel Çekirdek: Sinüzoidal Koordinat Enjeksiyonu
+​Sistem, Transformer mimarisinin "sıralama farkındalığı" (order-awareness) ihtiyacını, deterministik ve parametresiz şu matematiksel motor ile çözer:
+
+
+## 🌍 SKL-V047: GAN-LOGIC AI
+
+​* Mühendis Kontrol Merkezi'nin (ECC) çekişmeli öğrenme ve sentetik veri üretim katmanını yöneten, Üretici (Generator) ve Denetleyici (Discriminator) arasındaki Nash dengesini analiz eden v1.1.0-GAN sürümlü bir evrimsel simülatördür.
+
+​* Matematiksel Çekirdek: Adversarial Dynamics
+​Sistem, rakip ağlar arasındaki sıfır toplamlı oyun (Zero-Sum Game) mekaniğini şu parametrik motor ile denetler:
+​TTUR (Two-Timescale Update Rule): Üretici ve Denetleyici arasındaki öğrenme hızlarını (1:4 oranı) dengeleyerek, eğitimin salınım yapmasını (oscillation) engeller ve istikrarlı bir yakınsama sağlar.
+
+
+## 🌍 SKL-V048: UNIVERSAL-DISCOVERY AI 
+
+​* Mühendis Kontrol Merkezi'nin (ECC) disiplinlerarası örüntü sentezleyici birimi olarak görev yapan, makro-skala (Astro) ve mikro-skala (Bio) veri yapıları arasındaki İzomorfik Eşdeğerliği saptayan v2.5.0-STABLE sürümlü bir sistem mimarisidir.
+
+​* Matematiksel Çekirdek: Ölçekten Bağımsız İzomorfizm
+​Sistem, farklı disiplinlerden gelen verilerin yapısal benzerliğini (Structural Similarity) şu ileri düzey metrik motoru ile denetler:
+​İzomorfizm Skoru (Ic): İki farklı ağ grafiğinin (G_A ve G_B) spektral yoğunlukları arasındaki Wasserstein mesafesini ölçer. Ic \to 1 durumu, sistemlerin farklı ölçeklerde olsalar dahi aynı matematiksel kurallarla yönetildiğini ispatlar.
+
+
+
+## 🌍 SKL-V049: EVOLUTION-LOGIC AI 
+
+​* Mühendis Kontrol Merkezi'nin (ECC) sistem genişleme ve bilişsel büyüme katmanını yöneten, özyinelemeli algoritmalar ile ağ kapasitesini dinamik olarak ölçekleyen v3.0.0-EVOLUTION sürümlü bir evrimsel büyüme monitörüdür.
+
+​* Matematiksel Çekirdek: Özyinelemeli Büyüme Dinamiği
+​Sistem, mimari genişlemeyi ve zekâ (IQ) ölçeklemesini şu deterministik denklemler üzerinden işletir:
+​Recursive Coefficient (Γ): \Gamma = (\text{depth}^2 \times \text{efficiency}) / \ln(\text{time} + 2) formülüyle hesaplanır. Bu katsayı, sistemin kendi üzerine katlanma (recursion) hızını ve kod verimliliğini temsil eder.
+
+
+
+## 🌍 SKL-V050: EQUITY-LOGIC AI
+
+* Mühendis Kontrol Merkezi'nin (ECC) kaynak yönetim ve adil dağılım katmanını yöneten, operasyonel iş yükü varyansı üzerinden sistem dengesini denetleyen v1.0.0-EQUITY sürümlü bir performans analiz motorudur.
+
+​* Matematiksel Çekirdek: Varyans ve Standart Sapma (\sigma) Analizi
+​Sistem, iş yükü dağılımının homojenliğini şu deterministik istatistiksel motor ile denetler:
+​İş Yükü Formülasyonu (W): Difficulty \times EstimatedTime çarpımı ile her bir birimin nominal yükü hesaplanır.
+
+​* Katkı Skoru (C): Tamamlanan görevlerin zorluk derecesi ve PeerScore (akran puanı) ağırlıklı toplamı (Difficulty \times 1.5 + PeerScore \times 2) ile net verimlilik nicelleştirilir.
+
+
 
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
 ---
