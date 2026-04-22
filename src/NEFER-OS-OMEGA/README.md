@@ -10,9 +10,9 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
  
 <details>
   
- #  <summary> SKL-01  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
+  <summary> SKL-01  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [NEFER-OS TEKNİK ANALİZ RAPORU (01. HÜCRE)
+ #  - **Analiz:** [NEFER-OS TEKNİK ANALİZ RAPORU (01. HÜCRE)
 
 Operasyon Kodu: SKL-S01-KRNL
 Modül Kimliği: 01. Hücre (Kernel)
