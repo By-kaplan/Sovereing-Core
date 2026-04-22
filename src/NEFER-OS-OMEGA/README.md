@@ -19,11 +19,11 @@ Modül Kimliği: 01. Hücre (Kernel)
 Mimari Versiyon: 1.0.0-OMEGA
 Baş Mühendis: Ömer Kaplan
 
-1. MİMARİ ÖZET
+# 1. MİMARİ ÖZET
 
 Hücre (Kernel), NEFER-OS ekosisteminin sinir merkezidir. Sistemin "Tanrı Modu" operasyonlarını yürütmek, 92 hücrenin durumunu (state) senkronize etmek ve asenkron olay döngüsünü (Event Loop) yönetmekle görevlidir. "Vanilla Mühendislik Protokolü" uyarınca hiçbir dış kütüphane içermez. Sistemin otonom yapısı, çekirdeğin donanım kaynaklarına en yakın katmanda, saf JavaScript ile konuşabilmesi üzerine kurgulanmıştır.
 
-2. TEKNİK BİLEŞEN ANALİZİ
+# 2. TEKNİK BİLEŞEN ANALİZİ
 
 A. Olay Hattı (Event Bus) Mimari Analizi
 
@@ -49,7 +49,7 @@ heartbeat() fonksiyonu sistemin "uptime" değerini ve hayati fonksiyonlarını s
 
 Entropi Temeli: Gelecek hücrelerde (örn: 75. Hücre), bu kalp atışı dinamik şifreleme anahtarları için gereken zaman damgası (timestamp) kaynağı ve rastgelelik (randomness) tohumu olarak kullanılacaktır.
 
-3. PROTOKOL UYUM DENETİMİ
+# 3. PROTOKOL UYUM DENETİMİ
 
 Sistemin sığınak mimarisine uygunluğu aşağıdaki disiplinler üzerinden denetlenmiştir:
 
@@ -61,13 +61,13 @@ Matematiksel Görselleştirme: Kullanıcı arayüzündeki tüm görsel unsurlar 
 
 Operasyonel Hız: Çekirdek metodları doğrudan bellek referansları ile çalıştığı için işlemci yükü minimum düzeydedir ve sistem düşük donanımlı sığınak terminallerinde bile sorunsuz çalışır.
 
-4. OPERASYONAL PROSEDÜRLER (SOP)
+# 4. OPERASYONAL PROSEDÜRLER (SOP)
 
 Boot Sequencer: Sistematik önyükleme sırasında hücreler arası yarış durumlarını (race conditions) engellemek için asenkron gecikme (await delay) mekanizması kullanılır. Bu, her hücrenin bir öncekinden gelen veriyi beklemesini sağlar.
 
 Hata İzolasyonu: updateCell metodu, hatalı veya yanıt vermeyen bir hücreyi anında görsel olarak işaretleyerek (--hazard rengi) sistem yöneticisine (Nefer) anlık durum bilgisi verir.
 
-5. SONUÇ VE SONRAKİ ADIM
+# 5. SONUÇ VE SONRAKİ ADIM
 
 Hücre, sığınağın ayakta kalması için gereken asgari otonomiyi sağlamış ve sistemin ana yasasını (Kernel Protocol) yürürlüğe koymuştur. Kernel katmanı, bir sonraki aşama olan 02. Hücre (Veri ve Hafıza Yönetimi) için hazır bir veri yolu ve olay hattı sunmaktadır.
 
