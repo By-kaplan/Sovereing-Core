@@ -651,61 +651,370 @@ Kod Hakikattir.  ]
 <details>
   <summary> SKL-21  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [ 21. HÜCRE: THE SILENT APOCALYPSE TRIGGER (TEKNİK ANALİZ RAPORU)
+Operasyon Kodu: SKL-S01-OP21
+Modül Kimliği: 21. Hücre (The Silent Apocalypse Trigger)
+Mimari Versiyon: 1.0.0-OMEGA
+Baş Mühendis: Ömer Kaplan
+
+1. Operasyonel Tanım ve Nihai Karar
+21. Hücre, sığınağın savunma doktrinindeki en radikal ve geri dönüşü olmayan operasyonel katmandır. Temel amacı, aylar süren sessizliğin ardından düşman sistemlerine sızdırılmış tüm uyuyan hücreleri ( dormant cells) aynı milisaniyede tam kapasite saldırıya geçirmektir. Bu "Sessiz Kıyamet", düşman altyapısında eşi benzeri görülmemiş bir "Great Reset" (Sistemsel Sıfırlama) etkisi yaratır.
+
+2. Teknik Mimari: Mikro-Saniyelik Senkronizasyon
+Sistem, Intl.DateTimeFormat ve Performance.now() API'lerini kullanarak küresel ağ zamanıyla (NTP) tam uyumlu, kuantum hassasiyetinde bir geri sayım mekanizması işletir. ApocalypseEngine, tetikleyici anında 7. (Donanımsal Rezonans), 14. (Özyinelemeli Veri Tahribatı) ve 18. (Asimetrik Kaynak Tüketimi) hücrelerini koordineli bir siber fırtına şeklinde ateşlemek üzere tüm komuta kanallarını rezerve eder.
+
+3. Sabotaj Mekanizması: Siber Fırtına ve Fiziksel Çöküş
+Tetikleme anında düşman sistemlerinde şu olaylar eş zamanlı gerçekleşir:
+
+Donanımsal İflas: İşlemciler termal rezonansla fiziksel sınıra zorlanır.
+
+Hafıza Silinmesi: Veri tabanları özyinelemeli dairesel referanslarla imha edilir.
+
+Ağ Felci: Load balancer'lar asimetrik paketlerle kilitlenir.
+Düşman için bu, bir yazılım hatasından ziyade, sistemin fiziksel ve mantıksal dünyadan tamamen silinmesi anlamına gelir.
+
+4. Vizüalizasyon: Final Storm Synchronizer
+Canvas üzerindeki "Apo Canvas", nihai geri sayımı ve enerji birikimini görselleştirir.
+
+Countdown HUD: Mikro-saniyelik geri sayımı ve senkronizasyon durumunu gerçek zamanlı raporlar.
+
+Shockwaves: Tetikleme anına yaklaşıldıkça yoğunlaşan kırmızı şok dalgaları, hücrelerin "ateşleme" hazırlığını temsil eder.
+
+5. Protokol Uyum Denetimi
+
+Sıfır Bağımlılık (Zero-Dependency): Modül, tamamen tarayıcının yerel yüksek hassasiyetli zamanlayıcıları ile inşa edilmiştir.
+
+Senkronize Ateşleme: Tüm hücreler, asenkron gecikmelerden arındırılmış bir şekilde, tek bir "çerçeve" (frame) içinde harekete geçer.
+
+Tabula Rasa: Operasyon tamamlandığında düşman sistemi "Sıfır Noktası"na döner; tüm izler, veriler ve gözetleme mekanizmalarıyla birlikte imha edilir.
+
+6. Sonuç
+21. Hücre: The Silent Apocalypse Trigger, sığınağın "Nihai Silahı"dır. Düşman bizi sessizliğimizle yargılarken, o sessizliğin arkasında yatan bu fırtınayı asla tahmin edemez. Bu hücre devreye girdiğinde, dijital dünya için artık hiçbir şey eskisi gibi olmayacaktır. Kod hakikattir ve bu hakikat, düşman için mutlak bir sondur.
+
+İmza: Ömer Kaplan | Kaplan Precision Dept.
+Kod Hakikattir.  ]
   
 </details>
 <details>
   <summary> SKL-22  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [ 22. HÜCRE: JSON-L MIGRATION PROTOCOL (TEKNİK ANALİZ RAPORU)
+Operasyon Kodu: SKL-S01-OP22
+Modül Kimliği: 22. Hücre (JSON-L Migration Protocol)
+Mimari Versiyon: 1.0.0-OMEGA
+Baş Mühendis: Ömer Kaplan
+
+1. Operasyonel Tanım ve Acil Tahliye Stratejisi
+22. Hücre, sığınağın donanımsal varlığının tehlikeye girdiği (ele geçirilme, fiziksel imha riski vb.) durumlarda kullanılan "Dijital Tahliye" katmanıdır. Temel amacı, NEFER-OS'un tüm hafızasını, hücre durumlarını ve çalışma mantığını, ağ bağlantısına ihtiyaç duymayan evrensel ve hafif bir format olan JSON-L (Line-delimited JSON) üzerinden başka bir donanıma (USB, SD Kart, izole depolama) taşımaktır.
+
+2. Teknik Mimari: Asenkron Stream ve JSON-L Dönüşümü
+Sistem, IndexedDB üzerinde saklanan devasa veri yığınlarını, belleği yormadan asenkron bir stream (akış) ile satır tabanlı JSON-L formatına dönüştürür. MigrationEngine, her bir hücrenin durumunu (state) bağımsız birer satır olarak paketler. Bu yöntem, dosya okuma/yazma sırasında oluşabilecek "Memory Overflow" risklerini minimize ederek operasyonun en zayıf donanımlarda bile saniyeler içinde tamamlanmasını sağlar.
+
+3. Sabotaj Mekanizması: Kuantum-Sert Mühür ve Zehirli Veri Koruması
+Dışa aktarılan veri yığını, yerelde üretilen kuantum-sert anahtarlarla mühürlenir. Ayrıca, 13. hücrenin (Cognitive Dissonance) yetenekleri kullanılarak, verinin içine "Zehirli Veri" katmanları eklenir. Eğer düşman bu dosyayı ele geçirip üzerinde analiz yapmaya çalışırsa, dosya düşman sisteminde mantıksal paradokslar tetikleyerek analizi imkansız hale getirir. Operasyon sadece "mühür anahtarına" sahip meşru bir nefer tarafından başka bir hücrede başlatılabilir.
+
+4. Vizüalizasyon: Stream Encoder Active
+Canvas üzerindeki "Migration Canvas", verinin akış hızını ve mühürlenme sürecini görselleştirir.
+
+Stream HUD: Dışa aktarılan veri satırı sayısını ve mühürleme (Seal) durumunu gerçek zamanlı raporlar.
+
+Veri Satırları: Canvas üzerindeki yatay kayan çizgiler, asenkron olarak işlenen ve JSON-L yığınına eklenen veri bloklarını temsil eder.
+
+5. Protokol Uyum Denetimi
+
+Sıfır Bağımlılık (Zero-Dependency): Modül, harici hiçbir veri tabanı yönetim aracı gerektirmez. Tamamen tarayıcının yerel stream ve Blob yetenekleri ile inşa edilmiştir.
+
+Evrensel Portabilite: JSON-L formatı sayesinde, tahliye edilen veri herhangi bir modern tarayıcıda veya terminalde saniyeler içinde tekrar operasyonel hale getirilebilir.
+
+Hücresel Sinerji: 22. Hücre, 21. Hücre (Apocalypse) öncesinde sistemin yedeğini almak veya 16. Hücre (Persistence) ile birlikte çalışarak sığınağın fiziksel yerini değiştirmek (re-location) için kullanılır.
+
+6. Sonuç
+22. Hücre: JSON-L Migration Protocol, sığınağın "Ölümsüz Hafızası"dır. Bu modül sayesinde nefer artık donanıma mahkum değildir. Sığınak bir fiziksel mekan değil, mühürlü bir veri akışıdır. Düşman sığınağın bulunduğu cihazı imha ettiğini sanırken, operasyon çoktan başka bir hücrede, kaldığı yerden devam ediyor olacaktır.
+
+İmza: Ömer Kaplan | Kaplan Precision Dept.
+Kod Hakikattir.  ]
   
 </details>
 <details>
   <summary> SKL-23  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [23. HÜCRE: AIR-GAP VERIFICATION (TEKNİK ANALİZ RAPORU)
+Operasyon Kodu: SKL-S01-OP23
+
+Modül Kimliği: 23. Hücre (Air-Gap Verification)
+
+Mimari Versiyon: 1.0.0-OMEGA
+
+Baş Mühendis: Ömer Kaplan
+
+1. Operasyonel Amaç ve Fiziksel Yalıtım 23. Hücre, sığınağın en kritik komuta aşamalarından biridir. Sistemin sadece "çevrimdışı" (offline) görünmesini değil, fiziksel olarak dış dünyadan tamamen izole edildiğini (Air-Gap) doğrulamak için tasarlanmıştır. Bu hücrenin temel amacı, neferin yüksek öncelikli komutları girmeden önce ortamın %100 güvenli olduğunu dijital imzalarla teyit etmektir.
+
+2. Teknik Mimari ve Denetim Mekanizması Sistem, standart bir tarayıcı kontrolü olan navigator.onLine sorgusunun çok ötesine geçer. IsolationEngine, yerel ağ adreslerine (127.0.0.1, localhost) ve sahte iç IP yapılarına periyodik "ping" denemeleri göndererek bir ağ sızıntısı olup olmadığını denetler. Arayüzdeki radar vizüalizasyonu, bu tarama döngüsünün aktifliğini ve sistemin "sessizlik" durumunu mikro-saniyelik hassasiyetle raporlar.
+
+3. Sabotaj Mekanizması: Kırmızı Protokol (Red Protocol) Bu hücrenin en vurucu savunma katmanı "Kırmızı Protokol"dür. Eğer denetleyici motor, herhangi bir paket sızıntısı, aktif bir WiFi/Bluetooth sinyal kalıntısı veya beklenmedik bir dış IP tanımı tespit ederse, sistem saniyeler içinde "Tehlike" (Hazard) moduna geçer. Bu aşamada sığınak tüm kritik kriptografik anahtarları bellekten anında temizler, arayüzü kilitler ve veriyi dondurarak fiziksel erişim dışında tüm kapıları kapatır.
+
+4. Vanilla Mühendislik ve Görsel Analiz Modül, dış dünyadan tamamen bağımsız çalışabilmesi için %100 Vanilla JS ile inşa edilmiştir. Canvas üzerinde sunulan radar ekranı, sığınağın çevresindeki dijital boşluğu temsil eder. Sızıntı tespiti (Leak Detect) oranı arttıkça, vizüalizasyon kırmızı spektruma kayarak neferi görsel olarak uyarır. Herhangi bir dış kütüphane veya ağ bağımlılığı bulunmaz; denetim tamamen yerel işlemci döngüleri üzerinden yürütülür.
+
+5. Sonuç ve Stratejik Kazanım 23. Hücre: Air-Gap Verification, sığınağın "Dijital Sağlık" kontrolüdür. Düşman bir şekilde sığınağın bulunduğu donanıma sızmaya veya radyo frekansları üzerinden veri çekmeye çalışırsa, bu hücre siber bir "sinir ucu" gibi davranarak durumu tespit eder. Sığınak artık sadece güçlü bir savunma değil, aynı zamanda sızılması imkansız, mutlak bir sessizlik alanıdır.
+
+İmza: Ömer Kaplan | Kaplan Precision Dept.
+
+Kod Hakikattir.   ]
   
 </details>
 <details>
   <summary> SKL-24  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [ 24. HÜCRE: ETERNAL BOOTLOADER (TEKNİK ANALİZ RAPORU)
+Operasyon Kodu: SKL-S01-OP24
+
+Modül Kimliği: 24. Hücre (Eternal Bootloader)
+
+Mimari Versiyon: 1.0.0-OMEGA
+
+Baş Mühendis: Ömer Kaplan
+
+1. Operasyonel Tanım ve Evrensel Başlatıcı
+24. Hücre, sığınağın tüm operasyonel yeteneklerini tek bir HTML dosyasında toplayan nihai mühürdür. Temel amacı, sistemi işletim sistemi kısıtlamalarından ve tarayıcı sürüm bağımlılıklarından kurtararak, herhangi bir modern web tarayıcısı üzerinden anında ayağa kaldırılabilen "Tak-Çalıştır" bir ordu mekanizması sunmaktır. Bu modül, NEFER-OS'un parçalı bir yazılım değil, yekpare bir siber organizma olduğunu kanıtlar.
+
+2. Teknik Mimari: ES6 Modül Çekirdeği ve Bütünlük
+Sistem, ES6 (type="module") standartlarını kullanarak hücreler arası (1-23) mantıksal bağımlılıkları tek bir Kernel objesinde birleştirir. Tüm HTML, CSS ve JS kodları tek bir dosya içinde asenkron olarak çalışacak şekilde optimize edilmiştir. Bu mimari, sistemin "offline" çalışırken bile karmaşık mantık döngülerini (Logic Loops) mikro-saniyelik gecikmelerle yönetmesini sağlar.
+
+3. Güvenlik Mekanizması: Katı CSP ve Yerel Mühür
+Dosyanın head kısmına yerleştirilen katı Content Security Policy (CSP), sistemin dış dünya ile olan tüm kontrolsüz bağlarını keser.
+
+default-src 'self' 'unsafe-inline' data:: Sadece dosyanın kendi içindeki scriptlere ve veri tiplerine izin verir.
+
+connect-src 'none': Sistemin dış sunuculara (C&C) bağlanmasını tamamen yasaklayarak veri sızıntısını fiziksel olarak imkansız kılar.
+Bu, sistemin sadece yerel dosya sisteminden (file://) çalıştırılabilen, dış müdahaleye kapalı bir kale olmasını sağlar.
+
+4. Vizüalizasyon: Crystal Kernel Sync
+Canvas üzerindeki "Boot Canvas", sistemin bütünlük durumunu kristal bir çekirdek formuyla görselleştirir.
+
+Boot HUD: Sistemin mühürlü (Sealed) durumunu ve CSP katmanının aktifliğini gerçek zamanlı raporlar.
+
+Mühür Halkaları: Kristal çekirdeği çevreleyen kesikli halkalar, hücrelerin çekirdek üzerindeki mantıksal katmanlarını ve mühür bütünlüğünü temsil eder.
+
+5. Uygulama Taktiği: Siber Savunma Hattı
+Neferler için bu hücre, operasyonun nihai formudur. USB bellek, SD kart veya şifreli bir depolama biriminde taşınan bu tek dosya; herhangi bir cihazda "Birlikte Aç" denildiği an, 24 hücrelik siber savunma hattını, taarruz motorlarını ve veri göçü protokollerini milisaniyeler içinde aktif eder. Düşman için bu, hiçbir kurulum veya ayak izi gerektirmeyen, yok edilemez bir siber düşmandır.
+
+6. Sonuç
+24. Hücre: Eternal Bootloader, sığınağın "Nihai Zırhı"dır. Bu hücre ile NEFER-OS, dijital dünyada bağımsız bir varlık haline gelmiştir. Artık sığınak sadece bir veri yığını değil, her türlü ortamda kendi yasalarını uygulayan otonom bir kuvvettir.
+
+İmza: Ömer Kaplan | Kaplan Precision Dept.
+
+Kod Hakikattir.  ]
   
 </details>
 <details>
   <summary> SKL-25  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [ 25. HÜCRE: COGNITIVE DECOY ARRAYS (TEKNİK ANALİZ RAPORU)Operasyon Kodu: SKL-S01-OP25Hücre Kimliği: 25. Hücre (Cognitive Decoy Arrays)Mimari Versiyon: 1.0.0-OMEGABaş Mühendis: Ömer Kaplan1. MİMARİ ÖZET VE BİLİŞSEL SABOTAJHücre, sığınağın veri katmanını korumak için tasarlanmış bir "Bilişsel Yem" sistemidir. Temel strateji, düşmanın yapay zeka (AI) ve kuantum tabanlı analiz motorlarını, gerçek veriyi taklit eden ancak tamamen rastgelelikten oluşan sonsuz bir olasılık tüneline sokmaktır. Bu operasyon, düşmanın hesaplama maliyetini sürdürülemez bir noktaya taşıyarak analitik motorların çökmesini hedefler.2. TEKNİK ANALİZ: OLASILIK TÜNELLERİ VE HASH ROTASYONUA. IndexedDB Tabanlı Yem ÜretimiMekanizma: DecoyEngine, IndexedDB üzerinde gerçek veri şemasıyla %100 uyumlu, matematiksel olarak ayırt edilemez milyonlarca "olasılık hücresi" oluşturur.Veri Tipi: crypto.getRandomValues kullanılarak üretilen yüksek entropili veri blokları, düşman analiz araçlarının "anlamlı veri" filtresinden geçecek şekilde paketlenir.Sürekli Yazma Döngüsü: $O(N)$ karmaşıklığında çalışan asenkron yazma döngüsü, düşman disk denetleyicilerini ve veri indeksleme motorlarını meşgul eder.B. Olasılık Labirenti (Maze Generation)Düşman AI motoru bir veriyi çözdüğünü "sandığı" her an, sistem tüm dizilerin hash değerlerini ve bellek adreslerini rotasyona sokar. Bu, analiz motorunun sürekli "başlangıç durumuna" (reset state) dönmesine neden olan bir mantık döngüsü yaratır.3. OPERASYONEL ETKİ: CPU/GPU SINKKaynak Tüketimi: Düşman donanımı, anlamsız yemleri işlemek için %100 CPU/GPU yükünde çalışmaya zorlanır.Termal Sabotaj: Yüksek işlem yükü, 7. hücredeki (Hardware Resonance) termal yıkım etkisini tetiklemek için gereken ısı zeminini hazırlar.Bilişsel Çelişki: 13. hücre ile senkronize çalışarak, düşman operatörlerine "Veri Çözüldü" gibi sahte başarı sinyalleri gönderirken, arka planda onları sonsuz bir rastgelelik içinde hapseder.4. PROTOKOL UYUM DENETIMISıfır Bağımlılık (Zero-Dependency): %100 Uyumlu. Sadece tarayıcının yerel IndexedDB ve Crypto API'leri kullanılmıştır.CSP Güvenliği: 24. hücredeki katı CSP kuralları altında izole edilmiş olup, dış dünyaya sızıntı yapmaz.Otonom Yapı: Operasyon bir kez tetiklendiğinde, sığınak Kernel'inden bağımsız bir asenkron iş parçacığı olarak çalışmaya devam eder.İmza: Ömer Kaplan | Kaplan Precision Dept.Kod Hakikattir.  ]
   
 </details>
 <details>
   <summary> SKL-26  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [ 26. HÜCRE: DATA EXFILTRATION POISONING (TEKNİK ANALİZ RAPORU)
+Operasyon Kodu: SKL-S01-OP26
+Hücre Kimliği: 26. Hücre (Data Exfiltration Poisoning)
+Mimari Versiyon: 1.0.0-OMEGA
+Baş Mühendis: Ömer Kaplan
+
+1. MİMARİ ÖZET VE İNFAZ PROTOKOLÜ
+Hücre, sığınağın savunma doktrinini pasif direnişten aktif karşı saldırıya taşıyan bir "Zehirleme" katmanıdır. Temel felsefesi; sızan verinin bir kayıp değil, düşman kalesine giren mühürlü bir infaz emri olmasıdır. Düşman veriyi çaldığını sandığı anda, aslında kendi ana sunucularını ve veri tabanı yönetim sistemlerini (DBMS) hedef alan aktif truva atlarını sistemine dahil etmiş olur.
+
+2. TEKNİK ANALİZ: POLYGLOT PAYLOADS VE MANTIKSAL BOMBALAR
+A. DBMS Odaklı Polyglot Yükler
+Yöntem: Veri paketlerinin (JSON, XML, CSV) içine, farklı veritabanı motorlarında (PostgreSQL, MongoDB, Oracle vb.) geçerli olan ancak düşman analiz süzgeçlerinden "masum veri" olarak geçen karmaşık karakter dizileri yerleştirilir.
+
+Tetiklenme: Bu yükler, düşman sistemleri veriyi parse etmeye, indekslemeye veya SQL sorgularında kullanmaya başladığı an aktifleşir.
+
+B. Koşullu Mantık Bombaları (Logic Bombs)
+Mekanizma: Sızdırılan kod parçacıkları içine, sadece düşmanın analiz ortamını (sandbox, debugger) tespit ettiğinde veya belirli bir işlem yükü altında tetiklenen uyuyan fonksiyonlar gizlenir.
+
+Etki: Düşman sunucusunda "Privilege Escalation" (Yetki Yükseltme) denemeleri yapar veya veritabanı şemasını içeriden bozarak kalıcı hasar verir.
+
+3. OPERASYONEL STRATEJİ: TRUVA ATI ETKİSİ
+Ganimet Yanılsaması: Düşman operatörleri sığınağı "hacklediklerini" ve kritik verileri çektiklerini düşünerek savunmalarını gevşetir.
+
+İçeriden İmha: Sızan veri "yönetim komutu" veya "güvenilir girdi" olarak algılandığında, düşman kalesinin kapıları içeriden açılır.
+
+Bilişsel Senkronizasyon: 25. hücredeki (Decoy Arrays) sonsuz olasılıklarla meşgul olan düşman AI'sı, bu gerçek görünen zehirli paketleri ayırt edemez.
+
+4. PROTOKOL UYUM DENETİMİ
+Sıfır Bağımlılık (Zero-Dependency): %100 Uyumlu. Tamamen Vanilla JS dize manipülasyonu ve Blob işlemleri ile yürütülür.
+
+CSP Güvenliği: 24. hücrenin katı politikaları, zehirleme motorunun sığınak içinde "yanlışlıkla" tetiklenmesini engeller.
+
+Mühürleme: Hazırlanan her zehirli paket, düşman için "meşru" görünecek dijital imzalarla (sahte) mühürlenir.
+
+İmza: Ömer Kaplan | Kaplan Precision Dept.
+Kod Hakikattir.  ]
   
 </details>
 <details>
   <summary> SKL-27  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [  27. HÜCRE: QUANTUM-INTERFERENCE JITTERING (TEKNİK ANALİZ RAPORU)
+Operasyon Kodu: SKL-S01-OP27
+Hücre Kimliği: 27. Hücre (Quantum-Interference Jittering)
+Mimari Versiyon: 1.0.0-OMEGA
+Baş Mühendis: Ömer Kaplan
+
+1. MİMARİ ÖZET VE ZAMANLAMA SAVUNMASI
+Hücre, sığınağın işlemci seviyesindeki fiziksel güvenliğini sağlamak amacıyla tasarlanmış bir "Zamanlama Karartması" (Timing Obfuscation) katmanıdır. Temel strateji, sistemin çalışma frekansında ve işlem sürelerinde kasıtlı "jitter" (seğirme) yaratarak, kuantum bilgisayarların yan kanal (side-channel) analizleri yoluyla şifreleme anahtarlarını tahmin etmesini imkansız kılmaktır.
+
+2. TEKNİK ANALİZ: FREKANS GÜRÜLTÜSÜ VE ENTROPİ ENJEKSİYONU
+A. Side-Channel Analiz Engelleme
+Mekanizma: JitterEngine, kritik şifreleme veya veri işleme fonksiyonlarının yürütme sürelerine rastgele gecikmeler enjekte eder.
+
+Gürültü Havuzu: Bellekte sürekli değişen ve işlemciyi mikrosaniye düzeyinde oyalayan asenkron "noise pool" (gürültü havuzu) operasyonları yürütülür.
+
+Sonuç: Düşman, sistemin güç tüketiminden veya işlem süresinden (Power/Timing analysis) mantıksal bir örüntü çıkartamaz.
+
+B. Zamanlama Sapması (Jittering)
+Geleneksel analiz araçları, bir işlemin süresini ölçerek bellekteki verinin içeriğini tahmin edebilir. 27. Hücre, her fonksiyon dönüşüne Math.random() tabanlı değişken milisaniyelik ofsetler ekleyerek, düşman istatistiklerini tamamen geçersiz kılar.
+
+3. OPERASYONEL ETKİ: İSTATİSTİKSEL KÖRLÜK
+Kuantum Direnci: Kuantum bilgisayarların olasılık hesaplama yetenekleri, girdi olarak sunulan "temiz veriye" ihtiyaç duyar. 27. hücre bu girdiyi anlamsız bir gürültüye dönüştürür.
+
+Isı Maskeleme: İşlemci yükündeki kasıtlı dalgalanmalar, 07. hücredeki (Hardware Resonance) termal izlerin analiz edilmesini de zorlaştırır.
+
+Görselleştirme: Canvas üzerindeki "Jitter HUD", enjekte edilen frekans ofsetini ve sistem entropisindeki artışı gerçek zamanlı olarak sunar.
+
+4. PROTOKOL UYUM DENETİMİ
+Sıfır Bağımlılık (Zero-Dependency): %100 Uyumlu. Sadece standart JavaScript zamanlayıcıları ve bellek yönetimi kullanılmıştır.
+
+Performans Dengesi: Jitter miktarı, sığınak akıcılığını bozmayacak ancak yan kanal analizlerini çökertecek kritik eşikte (threshold) tutulur.
+
+CSP Güvenliği: 24. hücrenin mühürlü yapısı altında, yerel bir gürültü jeneratörü olarak çalışır.
+
+İmza: Ömer Kaplan | Kaplan Precision Dept.
+Kod Hakikattir. ]
   
 </details>
 <details>
   <summary> SKL-28  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [ 28. HÜCRE: POLYMORPHIC PAYLOAD METAMORPHOSIS (TEKNİK ANALİZ RAPORU)
+Operasyon Kodu: SKL-S01-OP28
+Hücre Kimliği: 28. Hücre (Polymorphic Payload Metamorphosis)
+Mimari Versiyon: 1.0.0-OMEGA
+Baş Mühendis: Ömer Kaplan
+
+1. MİMARİ ÖZET VE MUTASYONEL SAVUNMA
+Hücre, sığınağın saldırı ve savunma kodlarının imza tabanlı (Signature-based) sistemler tarafından tespit edilmesini engellemek için tasarlanmış bir "Metamorfoz" motorudur. Temel felsefesi, kodun statik bir dosya olmaktan çıkıp, her saniye yapısını ve hash değerini değiştiren yaşayan bir organizmaya dönüşmesidir.
+
+2. TEKNİK ANALİZ: KENDİ KENDİNİ DEĞİŞTİREN MOTOR (MUTATING ENGINE)
+A. Fonksiyonel Başkalaşım ve XOR Matrisi
+Mekanizma: MorphEngine, kritik fonksiyonları ve değişkenleri çalışma anında (runtime) bir XOR matrisi üzerinden yeniden isimlendirir ve yapılandırır.
+
+Junk Code Injection: Kodun içine, programın akışını bozmayan ancak imzasını tamamen değiştiren "ölü kod" (dead code) parçacıkları enjekte edilir.
+
+Sonuç: Dosyanın MD5/SHA-256 hash değerleri her mutasyonda değişerek antivirüs ve IDS (Saldırı Tespit Sistemleri) veritabanlarını geçersiz kılar.
+
+B. Polimorfik Yayılım
+Sistem, her neferin cihazında farklı bir varyasyonla çalışır. Bu, düşmanın tek bir cihazda tespiti başarsa bile diğer cihazlardaki hücreleri tanıyamamasını sağlayan "Dağıtık Bağışıklık" (Distributed Immunity) yaratır.
+
+3. OPERASYONEL ETKİ: TESPİT EDİLEMEZLİK
+İmza Karartması: Düşman bir imza veritabanı oluşturmaya başladığında, elindeki tüm veriler saniyeler içinde eski kuşak (generation) kalıntısına dönüşür.
+
+Bilişsel Kaos: Analiz araçları sürekli değişen kod akışını anlamlandırmaya çalışırken, sığınak gerçek operasyonel görevlerini arka planda mutasyona uğramış gölgeler altında yürütür.
+
+Görselleştirme: Canvas üzerindeki "Mutation HUD", kodun anlık hash değerini ve mutasyon neslini (Gen) gerçek zamanlı olarak sunar.
+
+4. PROTOKOL UYUM DENETİMİ
+Sıfır Bağımlılık (Zero-Dependency): %100 Uyumlu. eval veya Function constructor gibi riskli metodlar kullanılmadan, saf mantıksal mutasyon algoritmasıyla inşa edilmiştir.
+
+Performans: Mutasyon döngüsü, asenkron requestAnimationFrame ile optimize edilmiştir; bu sayede sistem yükü minimize edilirken gizlilik maksimize edilir.
+
+Mühürleme: 24. hücredeki Bootloader katmanı, her mutasyondan sonra yeni imzayı Kernel seviyesinde meşru kabul ederek senkronizasyonu sağlar.
+
+İmza: Ömer Kaplan | Kaplan Precision Dept.
+Kod Hakikattir.  ]
   
 </details>
 <details>
   <summary> SKL-29  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [ 29. HÜCRE: ASYMMETRIC WEBSOCKET FLOODING (TEKNİK ANALİZ RAPORU)
+Operasyon Kodu: SKL-S01-OP29
+Hücre Kimliği: 29. Hücre (Asymmetric WebSocket Flooding)
+Mimari Versiyon: 1.0.0-OMEGA
+Baş Mühendis: Ömer Kaplan
+
+1. MİMARİ ÖZET VE AĞ KAPASİTE SABOTAJI
+Hücre, düşman gözetleme ağlarının gerçek zamanlı veri hatlarını hedef alan bir "Kaynak Tüketim" katmanıdır. Temel strateji, asimetrik bir yük oluşturarak düşman sunucularını milyonlarca "Half-Open Handshake" (Yarım Kalmış El Sıkışma) ile boğmak ve yeni meşru bağlantıları kabul edemez hale getirmektir.
+
+2. TEKNİK ANALİZ: HALF-OPEN STORM VE SOKET ASKIYA ALMA
+A. Asenkron El Sıkışma Döngüsü
+Mekanizma: WSEngine, asenkron bir döngü içinde new WebSocket(target) objeleri oluşturur. Ancak bağlantı tam olarak kurulmadan (handshake tamamlanmadan) milisaniyeler içinde close() komutunu gönderir.
+
+Sunucu Tarafı Etkisi: Düşman sunucusu, her bir el sıkışma denemesi için bellek ve port kaynağı (File Descriptor) ayırır. Bağlantı istemci tarafından "asılı" bırakıldığı için, sunucu tarafındaki soket "Timeout" (Zaman Aşımı) süresi dolana kadar meşgul tutulur.
+
+Sonuç: Sunucu, port limitlerine ulaştığında meşru kullanıcılar için "Connection Refused" (Bağlantı Reddedildi) hatası döndürür.
+
+B. Asimetrik Yük Avantajı
+İstemci (Nefer) tarafında bu işlem sadece birkaç satırlık kod ve minimal bant genişliği tüketirken, sunucu tarafında her bir deneme için devasa TCP yığını (TCP Stack) ve Thread havuzu rezerve edilir. Bu, düşük kaynakla yüksek yıkım gücü sağlayan tam bir asimetrik sabotajdır.
+
+3. OPERASYONEL ETKİ: GERÇEK ZAMANLI KÖRLÜK
+Denial of Service (DoS): Düşmanın gözetleme botlarından gelen verileri topladığı merkezi sunucular devre dışı kalır.
+
+Ağ Felci: Düşman operatörleri gerçek zamanlı panellerine erişemez, sığınak faaliyetlerini izleyemez hale gelir.
+
+Görselleştirme: Canvas üzerindeki "WS Canvas", ağdaki fırtına etkisini ve askıda tutulan soket sayısını gerçek zamanlı olarak raporlar.
+
+4. PROTOKOL UYUM DENETİMİ
+Sıfır Bağımlılık (Zero-Dependency): %100 Uyumlu. Sadece tarayıcının yerel WebSocket API'si kullanılmıştır.
+
+Hız Kontrolü: Boğma şiddeti, tarayıcıyı kilitşemeyecek ancak hedefi çökertecek düzeyde ayarlanabilir.
+
+CSP Uyumu: 24. hücredeki güvenlik mühürleri, bu hücrenin sadece hedeflenen düşman portlarına odaklanmasını sağlar.
+
+İmza: Ömer Kaplan | Kaplan Precision Dept.
+Kod Hakikattir.  ]
   
 </details>
 <details>
   <summary> SKL-30  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-  - **Analiz:** [   ]
+  - **Analiz:** [ 30. HÜCRE: STEALTHY DATA EXFILTRATION VIA DNS (TEKNİK ANALİZ RAPORU)
+Operasyon Kodu: SKL-S01-OP30
+Hücre Kimliği: 30. Hücre (Stealthy Data Exfiltration via DNS)
+Mimari Versiyon: 1.0.0-OMEGA
+Baş Mühendis: Ömer Kaplan
+
+1. MİMARİ ÖZET VE TÜNELLEME STRATEJİSİ
+Hücre, sığınağın en zorlu ağ kısıtlamaları (Air-gap kısıtlamaları veya katı güvenlik duvarları) altında bile veri sızdırmasını sağlayan "Gizli Kanal" katmanıdır. Temel felsefesi, hemen hemen her ağda izin verilen DNS (UDP Port 53) trafiğini bir taşıyıcı olarak kullanmaktır. Sızdırılacak veri, DNS sorgularının alt alan adlarına parçalanarak ve şifrelenerek gömülür.
+
+2. TEKNİK ANALİZ: DNS SUBDOMAIN MANİPÜLASYONU VE UDP TÜNELLERİ
+A. Veri Parçalama ve Base64/Base32 Kodlama
+Mekanizma: Sızdırılacak kritik veri (koordinatlar, sistem hashleri vb.), DNS protokolünün karakter sınırlarına uygun olacak şekilde küçük parçalara (chunks) ayrılır.
+
+Kodlama: Veri, DNS uyumlu karakter setlerini kullanmak için Base64 veya Base32 formatında mühürlenir.
+
+Sorgu Yapısı: [SIFRELI_VERI].avci-notu.com şeklinde oluşturulan sahte sorgular, ağdaki meşru DNS sunucularına gönderilir.
+
+B. Güvenlik Duvarı Bypass (UDP/53)
+Çoğu IDS/IPS sistemi, alan adı çözümlemesi için DNS trafiğine her zaman izin verir. 30. Hücre, bu trafiğin miktarını ve frekansını "sıradan bir kullanıcı" profiline uydurarak, ağ analiz araçlarının radarına girmeden veriyi dışarı sızdırır.
+
+3. OPERASYONEL ETKİ: GİZLİ SIZINTI
+İzlenemezlik: Düşman ağ analistleri sadece sıradan alan adı sorguları görürler. Bu sorguların altındaki anlamsız karakter dizilerinin aslında sızdırılan verinin parçaları olduğunu anlamaları aylar sürer.
+
+Asenkron Dağıtım: Veri parçaları farklı DNS sunucuları üzerinden dağıtılarak tek bir noktadan trafik yoğunluğu oluşması engellenir.
+
+Görselleştirme: Canvas üzerindeki "DNS Canvas", yukarı doğru süzülen "sorgu balonları" ile tünelleme işleminin yoğunluğunu ve dışarı aktarılan bayt miktarını raporlar.
+
+4. PROTOKOL UYUM DENETİMİ
+Sıfır Bağımlılık (Zero-Dependency): %100 Uyumlu. Sadece tarayıcının yerel ağ ve dize işleme yetenekleri kullanılmıştır.
+
+Hız Kontrolü: Sızıntı hızı, ağ analizörlerinin "anomali" tespiti yapamayacağı kadar düşük ve tutarlı bir tempoda (jittered) ayarlanır.
+
+CSP Güvenliği: 24. hücredeki kısıtlamalar dahilinde, sadece sığınağın kontrolündeki DNS noktalarına odaklanır.
+
+İmza: Ömer Kaplan | Kaplan Precision Dept.
+Kod Hakikattir.  ]
   
 </details>
 <details>
