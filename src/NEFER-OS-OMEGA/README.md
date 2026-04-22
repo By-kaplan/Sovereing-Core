@@ -5,11 +5,11 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
  Bu kütüphane MIT Lisansı altındadır. Kullanım ve dağıtımda mimara (Ömer Kaplan) atıfta bulunulması zorunludur.
 ---
 
- ### SKL- TEKNİK RAPORU
+   ### NEFER-0S-OMEGA TEKNİK RAPORU
  
 <details>
   
-  <summary>   VANILLA JS & INFECTION_CORE (Görüntüle)</summary>
+  <summary> 0  VANILLA JS & INFECTION_CORE (Görüntüle)</summary>
 
  
   - **Analiz:** [Senin rapor metnin buraya gelecek]
