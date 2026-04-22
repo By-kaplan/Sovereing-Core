@@ -17,7 +17,7 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
 Operasyon Kodu: SKL-S01-KRNL
 Modül Kimliği: 01. Hücre (Kernel)
 Mimari Versiyon: 1.0.0-OMEGA
-Baş Mühendis: Ömer Kaplan
+* Ömer Kaplan
 
 # 1. MİMARİ ÖZET
 
