@@ -5,7 +5,7 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
 ---
 
 <details>
-  <summary>🔎 01-03: VANILLA JS & INFECTION_CORE (Görüntüle)</summary>
+  <summary>🔎 01: VANILLA JS & INFECTION_CORE (Görüntüle)</summary>
 
   ### SKL-01 TEKNİK RAPORU
   - **Operasyon Kodu:** SKL-S01-KRNL
