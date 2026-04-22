@@ -16,6 +16,7 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
   - **Analiz:** [Senin rapor metnin buraya gelecek]
   
   ...
+  
 </details>
 
 <details>
@@ -33,6 +34,7 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
   - **Analiz:** [Senin rapor metnin buraya gelecek]
   
   ...
+  
 </details>
 
 <details>
@@ -43,6 +45,7 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
   - **Analiz:** [Senin rapor metnin buraya gelecek]
   
   ...
+  
 </details>
 
 <details>
@@ -53,6 +56,7 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
   - **Analiz:** [Senin rapor metnin buraya gelecek]
   
   ...
+  
 </details>
 
 <details>
@@ -63,6 +67,7 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
   - **Analiz:** [Senin rapor metnin buraya gelecek]
   
   ...
+  
 </details>
 
 <details>
