@@ -1,4 +1,4 @@
-## BÜYÜK KÖRLEŞTİRME HÜCRELEİN BİR BİRLERİYLE KONUŞMASI İÇİN 
+## BÜYÜK KÖRLEŞTİRME HÜCRELERİN BİR BİRLERİYLE KONUŞMASI İÇİN 
 
 ## 1-2-3 hücreyi Vanilla JS ile tek bir Infection_Core.js dosyasında birleştirin.
 ## 4, 5 ve 6. hücreleri "Shadow_Protocol_Suite" adı altında birleştirin.
@@ -27,3 +27,4 @@
 ## 82, 83 ve 84. hücreleri "Global_Sovereignty_Network" adı altında mühürleyin
 ## 85, 86 ve 87. hücreleri "Fortress_Counter_Strike" çatısı altında mühürleyin.
 ## 88, 89 ve 90. hücreleri "Universal_Sovereignty_Final" adı altında mühürleyin.
+                ## NOT EGİTİM AMAÇLIDIR. AR GE ÇALIŞMASIDIR.
