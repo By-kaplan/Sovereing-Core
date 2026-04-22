@@ -4,8 +4,6 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
 
 ---
 
-## 📂 KATEGORİ: INFECTION & CORE (Hücre 01-18)
-
 <details>
   <summary>🔎 01-03: VANILLA JS & INFECTION_CORE (Görüntüle)</summary>
 
