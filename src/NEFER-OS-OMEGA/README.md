@@ -9,7 +9,7 @@ Bu doküman, sistemdeki 92 operasyonel hücrenin mimari ve stratejik analizlerin
  
 <details>
   
-  <summary> 0  VANILLA JS & INFECTION_CORE (Görüntüle)</summary>
+  <summary> 0  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Görüntüle)</summary>
 
  
   - **Analiz:** [Senin rapor metnin buraya gelecek]
