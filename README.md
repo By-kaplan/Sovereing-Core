@@ -680,17 +680,15 @@ Arka planda dönen devasa matematiksel işlemlerin sisteme olan yükünü izler.
 ​* Katkı Skoru (C): Tamamlanan görevlerin zorluk derecesi ve PeerScore (akran puanı) ağırlıklı toplamı (Difficulty \times 1.5 + PeerScore \times 2) ile net verimlilik nicelleştirilir.
 
 
-
+---
 ## 🛡️ TEKNİK ANALİZ VE DOKTRİN MERKEZİ
 
 Sistemin 92 operasyonel hücresine ait derinlemesine teknik analizlere ve mühürleme protokollerine aşağıdaki bağlantıdan ulaşabilirsiniz:
 
 👉 **[NEFER-OS OMEGA TEKNİK ANALİZ ARŞİVİ](./src/NEFER-OS-OMEGA/README.md)**
 
-
 ## Bu arşiv, her bir hücrenin (SKL-01...92) mimari yapısını ve stratejik raporlarını içerir.*
 
-​
-
+---
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
 ---
