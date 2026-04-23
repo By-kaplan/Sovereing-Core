@@ -17,7 +17,13 @@ Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (
 > **"Precision Engineering from Kaplan Precision Dept."**
 
 ---
-## 📦 SKL-0001: Sovereign Core Library (SKL) ekosisteminin bir parçası olarak tasarlanmış, otonom evrim kapasitesine sahip hibrit bir siber altyapı simülasyonudur. Temel amacı, karmaşık veri ağlarını sadece teknik bir altyapı olarak değil; yasal, duyusal ve bilişsel katmanlarla entegre bir "yaşayan sistem" olarak modellemektir.
+
+<details>
+  <summary> SKL-0001  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
+
+  - **Analiz:** [ Sovereign Core Library (SKL) ekosisteminin bir parçası olarak tasarlanmış, otonom evrim kapasitesine sahip hibrit bir siber altyapı simülasyonudur. Temel amacı, karmaşık veri ağlarını sadece teknik bir altyapı olarak değil; yasal, duyusal ve bilişsel katmanlarla entegre bir "yaşayan sistem" olarak modellemektir. ]
+  
+</details>
 
 ---
 
