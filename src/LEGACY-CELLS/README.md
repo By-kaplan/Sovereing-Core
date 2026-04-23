@@ -1,3 +1,9 @@
+## LEGACY-CELLS SERİSİNİN TEKNİK ANALİZLERİ
+## 📜 Lisans:
+## Bu kütüphane MIT Lisansı altındadır. Kullanım ve dağıtımda mimara
+## (Ömer Kaplan) atıfta bulunulması zorunludur.
+
+
 <details>
  <summary>🌐 SKL-0001  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
