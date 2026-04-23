@@ -11,7 +11,8 @@ Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu
 - **Standardization:** `SKL_` ön eki ile global çakışma önleyici isimlendirme.
 
 ## 📜 Lisans:
-## Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (Ömer Kaplan) atıfta bulunulması zorunludur.
+## Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (Ömer Kaplan)
+atıfta bulunulması zorunludur.
 
 > **"Precision Engineering from Kaplan Precision Dept."**
 # 🛡️ SOVEREIGN CORE LIBRARY (SKL)
