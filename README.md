@@ -19,7 +19,7 @@ Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu
 ---
 
 <details>
-  <summary> SKL-0001  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
+##  <summary> SKL-0001  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
   - **Analiz:** [ Sovereign Core Library (SKL) ekosisteminin bir parçası olarak tasarlanmış, otonom evrim kapasitesine sahip hibrit bir siber altyapı simülasyonudur. Temel amacı, karmaşık veri ağlarını sadece teknik bir altyapı olarak değil; yasal, duyusal ve bilişsel katmanlarla entegre bir "yaşayan sistem" olarak modellemektir. ]
   
