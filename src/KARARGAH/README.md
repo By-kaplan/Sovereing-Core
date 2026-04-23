@@ -8,8 +8,10 @@
 * ⚓ MÜHÜR: Deterministik (BANNED_LOGIC) akış üzerinden 60Hz sabit frekansta sönümsüz sinyal üretimi.
 
 * 📡 DENETİM: Arcuate Fasciculus yolu üzerinden gerçek zamanlı veri doğruluğu ve hassasiyet (Precision) analizi.
-* 
+
+  
 --------------------------------------------------
+
 ---
 ## ⚖️ SKL-V0002: Asynchronous Neuromorphic Core & LIF Engine
 
