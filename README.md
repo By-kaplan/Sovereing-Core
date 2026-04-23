@@ -15,7 +15,8 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 # 🛡️ SOVEREIGN CORE LIBRARY (SKL)
 
 ## 🛡️ SKL Protokolü Hakkında
-Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu mimari, İnsan-Yapay Zeka hibrit çalışma modelinin en üst seviye disiplinini temsil eder.
+Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. 
+Bu mimari, İnsan-Yapay Zeka hibrit çalışma modelinin en üst seviye disiplinini temsil eder.
 ---
 --------------------------------------------------
 
