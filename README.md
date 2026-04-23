@@ -12,10 +12,8 @@ Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu
 
 ## 📜 Lisans
 Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara (Ömer Kaplan) atıfta bulunulması zorunludur.
-
-# 🛡️ SOVEREIGN CORE LIBRARY (SKL)
 > **"Precision Engineering from Kaplan Precision Dept."**
-
+# 🛡️ SOVEREIGN CORE LIBRARY (SKL)
 ---
 
 <details>
