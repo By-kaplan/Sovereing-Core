@@ -43,7 +43,7 @@
 
 ​* 🛰️ Analitik Diferansiyel Çekirdeği: Sistem; ReLU, Sigmoid, Tanh ve LeakyReLU fonksiyonlarını sadece statik olarak çizmez, aynı zamanda her birinin birinci mertebeden türevini (\frac{dy}{dx}) eş zamanlı olarak hesaplayarak gradyan akışını (\text{flow}) simüle eder.
 
-​* 🛰️ Doygunluk Analizi (Saturation Mapping): \text{grads} < 0.01 koşulunu sağlayan bölge oranını hesaplayarak, modelin öğrenme kapasitesindeki sönümlenme riskini bir "Stabilite Skoru"na dönüştürür.
+​* 🛰️ Doygunluk Analizi (Saturation Mapping): \text{grads}  0.01 koşulunu sağlayan bölge oranını hesaplayarak, modelin öğrenme kapasitesindeki sönümlenme riskini bir "Stabilite Skoru"na dönüştürür.
 
 --------------------------------------------------
 ---
