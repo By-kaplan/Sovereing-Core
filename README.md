@@ -20,7 +20,7 @@ Bu mimari, İnsan-Yapay Zeka hibrit çalışma modelinin en üst seviye disiplin
 
 --------------------------------------------------
 
-## 🛡️KARARGAH TEKNİK ANALİZ VE DOKTRİN MERKEZİ
+## ⚖️ 🛡️KARARGAH TEKNİK ANALİZ VE DOKTRİN MERKEZİ
 
 Sistemin 50 operasyonel hücresine ait teknik analizlere aşağıdaki bağlantıdan ulaşabilirsiniz:
 
@@ -30,7 +30,7 @@ Sistemin 50 operasyonel hücresine ait teknik analizlere aşağıdaki bağlantı
 
 --------------------------------------------------
 
-## 🛡️LEGACY-CELLS TEKNİK ANALİZ VE DOKTRİN MERKEZİ
+## ⚖️ 🛡️LEGACY-CELLS TEKNİK ANALİZ VE DOKTRİN MERKEZİ
 
 Sistemin 23 operasyonel hücresine ait derinlemesine teknik analizlere aşağıdaki bağlantıdan ulaşabilirsiniz:
 
@@ -40,7 +40,7 @@ Sistemin 23 operasyonel hücresine ait derinlemesine teknik analizlere aşağıd
 
 --------------------------------------------------
 
-## 🛡️NEFER-OS TEKNİK ANALİZ VE DOKTRİN MERKEZİ
+## ⚖️ 🛡️NEFER-OS TEKNİK ANALİZ VE DOKTRİN MERKEZİ
 
 Sistemin 92 operasyonel hücresine ait derinlemesine teknik analizlere ve mühürleme protokollerine aşağıdaki bağlantıdan ulaşabilirsiniz:
 
