@@ -39,38 +39,41 @@ Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu
 📡 DENETİM: useMemo optimizasyonu ile en düşük CPU yükünde çalışan, 100k+ dosya kapasiteli çapraz referanslı denetim protokolü. ]
   
 </details>
+</details>
 
 
-## 📦 SKL-0003: CampusTask Logistics Engine
-* **Tanım:** Kampüs içi otonom görev dağıtımı ve lojistik optimizasyon katmanı.
-* **Core:** Mesafe ve aciliyet analizleri **Kaplan Logic** ile standardize edilmiştir.
+<details>
+  <summary>🌐 SKL-0004:  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
----
+  - **Analiz:** [ Ephemeral Mesh Simulation
+Hikayesi: Kaplan Halı Yıkama - Precision Dept'in dinamik temposu içinde, teorik bilginin görsel motora dönüştüğü bir "organik öğrenme" deneyidir.
+Teknik: RAM üzerindeki geçici veri yapılarını ve bellek sönümlenmesini (Decay) görselleştirir.
+ ]
+  
+</details>
 
-## 🌐 SKL-0004: Ephemeral Mesh Simulation
-* **Hikayesi:** Kaplan Halı Yıkama - Precision Dept'in dinamik temposu içinde, teorik bilginin görsel motora dönüştüğü bir "organik öğrenme" deneyidir.
-* **Teknik:** RAM üzerindeki geçici veri yapılarını ve bellek sönümlenmesini (Decay) görselleştirir.
 
----
+<details>
+  <summary>🖥️ SKL-0005:  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-## 🖥️ SKL-0005: Analog-Sensory Bridge:
-*  Fiziksel dünyadaki analog veriler (Ortam sıcaklığı, EM gürültüsü, titreşim) artık siber güvenlik parametreleri olarak işleniyor. 
+  - **Analiz:** [Analog-Sensory Bridge:
+Fiziksel dünyadaki analog veriler (Ortam sıcaklığı, EM gürültüsü, titreşim) artık siber güvenlik parametreleri olarak işleniyor.
 
-* Sıcaklık artışı ağ entropisini (hızını) artırırken, EM gürültüsü görsel jitter ve parazit simülasyonunu tetikler.
+Sıcaklık artışı ağ entropisini (hızını) artırırken, EM gürültüsü görsel jitter ve parazit simülasyonunu tetikler.
 
----
+  ]
+  
+</details>
 
-## 🧪 SKL-0006: Scientist-Logic AI
-* **Motto:** "Veriden Bilgiye, Bilgiden Keşfe"
-* **Yetenek:** Abidüktif Akıl Yürütme ve Popperian Validasyon ile bilimsel çıkarım yapar.
 
----
+<details>
+  <summary>🧪 SKL-0006   TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-## 🖥️ SKL-0007: NexusOS Command Center
-* **Tanım:** Merkezi Sistem Yönetimi ve Operasyonel Denetim katmanı.
-* **Özellik:** TeamEquity (İş yükü analizi) ve RingCentral (Ağ akışı) koordine merkezi.
-
----
+  - **Analiz:** [Scientist-Logic AI
+Motto: "Veriden Bilgiye, Bilgiden Keşfe"
+Yetenek: Abidüktif Akıl Yürütme ve Popperian Validasyon ile bilimsel çıkarım yapar. ]
+  
+</details>
 
 ## ⚡ SKL-0008: Cihaz Kod 1 (Expertiz)
 
