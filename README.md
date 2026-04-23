@@ -38,8 +38,6 @@ Sistemin 23 operasyonel hücresine ait derinlemesine teknik analizlere aşağıd
 ## Bu arşiv, her bir hücrenin (SKL-01...23) mimari yapısını ve stratejik raporlarını içerir.*
 
 --------------------------------------------------
---------------------------------------------------
-
 ---
 ## 🛡️ TEKNİK ANALİZ VE DOKTRİN MERKEZİ
 
