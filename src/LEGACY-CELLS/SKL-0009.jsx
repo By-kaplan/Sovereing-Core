@@ -282,6 +282,7 @@ const SKL_Footprint_Subsystem = () => {
     const [SKL_Nodes, SKL_Set_Nodes] = useState([]);
     const [SKL_Consents, SKL_Set_Consents] = useState({ hak: false, tarama: false });
     const [SKL_Preview, SKL_Set_Preview] = useState(null);
+    const SKL_Allowed_Image_Types = new Set(['image/jpeg', 'image/png', 'image/webp']);
 
     const SKL_Start_Scan = () => {
         if (!SKL_Consents.hak || !SKL_Consents.tarama) return;
@@ -301,8 +302,22 @@ const SKL_Footprint_Subsystem = () => {
 
     const SKL_Handle_Upload = (e) => {
         const file = e.target.files[0];
-        if (file) SKL_Set_Preview(URL.createObjectURL(file));
+        if (!file || !SKL_Allowed_Image_Types.has(file.type)) {
+            if (SKL_Preview) URL.revokeObjectURL(SKL_Preview);
+            SKL_Set_Preview(null);
+            return;
+        }
+
+        const nextPreviewUrl = URL.createObjectURL(file);
+        if (SKL_Preview) URL.revokeObjectURL(SKL_Preview);
+        SKL_Set_Preview(nextPreviewUrl);
     };
+
+    useEffect(() => {
+        return () => {
+            if (SKL_Preview) URL.revokeObjectURL(SKL_Preview);
+        };
+    }, [SKL_Preview]);
 
     return (
         <div className="w-full h-full flex flex-col p-8 animate-in fade-in duration-500 overflow-y-auto">
