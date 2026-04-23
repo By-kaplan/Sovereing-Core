@@ -1,8 +1,6 @@
----
 ## ⚖️ SKL-V0001: Lingu-Logic & Neural Synapse Engine
 
 * 🛰️ TANIM: Nöro-Lojistik çekirdek üzerinden biyolojik dil edinimi ve sinaptik veri transferi simülasyonu.
-
 * 🛡️ GÜVENLİK: Myelin Saturation dengelemesi ile aşırı yüklenmeyi önleyen nöral izolasyon protokolü.
 
 * ⚓ MÜHÜR: Deterministik (BANNED_LOGIC) akış üzerinden 60Hz sabit frekansta sönümsüz sinyal üretimi.
