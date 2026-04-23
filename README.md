@@ -2,17 +2,6 @@
 
 Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evrensel kod standartlarının merkezidir.
 
-## 🛡️ TEKNİK ANALİZ VE DOKTRİN MERKEZİ
-
-Sistemin 50 operasyonel hücresine ait teknik analizlere aşağıdaki bağlantıdan ulaşabilirsiniz:
-
-👉 **[KARARGAH SERİSİNİN TEKNİK ANALİZ ARŞİVİ](./src/KARARGAH/README.md)**
-
-## Bu arşiv, her bir hücrenin (SKL-01...50) mimari yapısını ve stratejik raporlarını içerir.*
-
-## 🛡️ SKL Protokolü Hakkında
-Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu mimari, İnsan-Yapay Zeka hibrit çalışma modelinin en üst seviye disiplinini temsil eder.
-
 ### 🚀 Temel İlkeler
 - **Kaplan Logic:** Kritik algoritmalar maksimum verimlilik için optimize edilmiştir.
 - **AI-Bridge:** Gelecekteki 100k+ dosya ile tam entegrasyon vizyonu.
@@ -26,6 +15,18 @@ Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu
 # 🛡️ SOVEREIGN CORE LIBRARY (SKL)
 ---
 --------------------------------------------------
+
+## 🛡️ TEKNİK ANALİZ VE DOKTRİN MERKEZİ
+
+Sistemin 50 operasyonel hücresine ait teknik analizlere aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+👉 **[KARARGAH SERİSİNİN TEKNİK ANALİZ ARŞİVİ](./src/KARARGAH/README.md)**
+
+## Bu arşiv, her bir hücrenin (SKL-01...50) mimari yapısını ve stratejik raporlarını içerir.*
+
+## 🛡️ SKL Protokolü Hakkında
+Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu mimari, İnsan-Yapay Zeka hibrit çalışma modelinin en üst seviye disiplinini temsil eder.
+
 --------------------------------------------------
 
 ## 🛡️ TEKNİK ANALİZ VE DOKTRİN MERKEZİ
