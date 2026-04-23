@@ -830,6 +830,17 @@ const SKL_Footprint_Subsystem = () => {
     const [SKL_Nodes, SKL_Set_Nodes] = useState([]);
     const [SKL_Preview, SKL_Set_Preview] = useState(null);
 
+    const SKL_Handle_Foot_File_Change = (e) => {
+        const file = e?.target?.files?.[0];
+        if (!file || typeof file.type !== 'string' || !file.type.startsWith('image/')) {
+            if (SKL_Preview) URL.revokeObjectURL(SKL_Preview);
+            SKL_Set_Preview(null);
+            return;
+        }
+        if (SKL_Preview) URL.revokeObjectURL(SKL_Preview);
+        SKL_Set_Preview(URL.createObjectURL(file));
+    };
+
     const SKL_Start_Scan = () => {
         SKL_Set_State('analyzing');
         let v = 0;
@@ -847,7 +858,7 @@ const SKL_Footprint_Subsystem = () => {
                 <div className="max-w-lg mx-auto w-full space-y-10 py-6 text-center">
                     <h3 className="text-3xl font-black tracking-[0.2em] text-white uppercase italic">Ayak İzi Analizörü</h3>
                     <div onClick={() => document.getElementById('skl_foot_file').click()} className="border-2 border-dashed border-[#00ff41]/30 rounded-[4rem] p-16 bg-[#00ff41]/5 cursor-pointer">
-                        <input id="skl_foot_file" type="file" hidden onChange={(e) => SKL_Set_Preview(URL.createObjectURL(e.target.files[0]))} />
+                        <input id="skl_foot_file" type="file" accept="image/*" hidden onChange={SKL_Handle_Foot_File_Change} />
                         {SKL_Preview ? <img src={SKL_Preview} className="max-h-48 mx-auto rounded-[2rem]" alt="Pre" /> : <Upload className="w-16 h-16 text-[#00ff41]/40 mx-auto" />}
                     </div>
                     <button onClick={SKL_Start_Scan} disabled={!SKL_Preview} className="w-full py-6 bg-indigo-600 text-white text-[11px] font-black uppercase tracking-[0.4em] rounded-3xl disabled:opacity-10 italic">Taramayı Başlat</button>
