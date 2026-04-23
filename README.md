@@ -18,6 +18,13 @@ Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu
 # 🛡️ SOVEREIGN CORE LIBRARY (SKL)
 ---
 
+## 🛡️ TEKNİK ANALİZ VE DOKTRİN MERKEZİ
+
+Sistemin 23 operasyonel hücresine ait derinlemesine teknik analizlere aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+👉 **[LEGACY-CELLS SERİSİNİN TEKNİK ANALİZ ARŞİVİ](./src/LEGACY-CELLS/README.md)**
+
+## Bu arşiv, her bir hücrenin (SKL-01...23) mimari yapısını ve stratejik raporlarını içerir.*
 
 --------------------------------------------------
 ---
