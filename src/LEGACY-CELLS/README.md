@@ -1,5 +1,4 @@
 ## LEGACY-CELLS SERİSİNİN TEKNİK ANALİZLERİ
-## 📜 Lisans:
 ## Bu kütüphane MIT Lisansı altındadır. Kullanım ve dağıtımda mimara
 ## (Ömer Kaplan) atıfta bulunulması zorunludur.
 
