@@ -18,10 +18,9 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır.
 Bu mimari, İnsan-Yapay Zeka hibrit çalışma modelinin en üst seviye disiplinini temsil eder.
 
----
 --------------------------------------------------
 
-## 🛡️ TEKNİK ANALİZ VE DOKTRİN MERKEZİ
+## 🛡️KARARGAH TEKNİK ANALİZ VE DOKTRİN MERKEZİ
 
 Sistemin 50 operasyonel hücresine ait teknik analizlere aşağıdaki bağlantıdan ulaşabilirsiniz:
 
@@ -31,7 +30,7 @@ Sistemin 50 operasyonel hücresine ait teknik analizlere aşağıdaki bağlantı
 
 --------------------------------------------------
 
-## 🛡️ TEKNİK ANALİZ VE DOKTRİN MERKEZİ
+## 🛡️LEGACY-CELLS TEKNİK ANALİZ VE DOKTRİN MERKEZİ
 
 Sistemin 23 operasyonel hücresine ait derinlemesine teknik analizlere aşağıdaki bağlantıdan ulaşabilirsiniz:
 
@@ -40,8 +39,8 @@ Sistemin 23 operasyonel hücresine ait derinlemesine teknik analizlere aşağıd
 ## Bu arşiv, her bir hücrenin (SKL-01...23) mimari yapısını ve stratejik raporlarını içerir.*
 
 --------------------------------------------------
----
-## 🛡️ TEKNİK ANALİZ VE DOKTRİN MERKEZİ
+
+## 🛡️NEFER-OS TEKNİK ANALİZ VE DOKTRİN MERKEZİ
 
 Sistemin 92 operasyonel hücresine ait derinlemesine teknik analizlere ve mühürleme protokollerine aşağıdaki bağlantıdan ulaşabilirsiniz:
 
