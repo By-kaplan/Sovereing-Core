@@ -25,19 +25,21 @@ Tüm dosyalar **Sovereign-Kaplan Evrensel Protokolü** ile tasarlanmıştır. Bu
   
 </details>
 
----
 
-## 🌐 SKL-0002: TrendRadar Intelligence & Strategic Scoring Engine
+<details>
+  <summary> 🌐 SKL-0002  TEKNİK DÖKÜMANI GÖRÜNTÜLE (Tıkla Görüntüle)</summary>
 
-* 🛰️ TANIM: Global sinyal ağlarından (Intel Flow) gelen patent ve akademik verileri otonom olarak skorlayan istihbarat motoru.
+  - **Analiz:** [ TrendRadar Intelligence & Strategic Scoring Engine
+🛰️ TANIM: Global sinyal ağlarından (Intel Flow) gelen patent ve akademik verileri otonom olarak skorlayan istihbarat motoru.
 
-* 🛡️ GÜVENLİK: Kaynak güvenilirliği ve anahtar kelime frekansı üzerinden gürültüyü (noise) filtreleyen "Kaplan Logic" doğrulama katmanı.
+🛡️ GÜVENLİK: Kaynak güvenilirliği ve anahtar kelime frekansı üzerinden gürültüyü (noise) filtreleyen "Kaplan Logic" doğrulama katmanı.
 
-* ⚓ MÜHÜR: Trend İvmesi (ΔV) ve Stratejik Skorlama (0-100) üzerinden veriyi operasyonel istihbarata dönüştüren mühürlü algoritma.
+⚓ MÜHÜR: Trend İvmesi (ΔV) ve Stratejik Skorlama (0-100) üzerinden veriyi operasyonel istihbarata dönüştüren mühürlü algoritma.
 
-* 📡 DENETİM: useMemo optimizasyonu ile en düşük CPU yükünde çalışan, 100k+ dosya kapasiteli çapraz referanslı denetim protokolü.
+📡 DENETİM: useMemo optimizasyonu ile en düşük CPU yükünde çalışan, 100k+ dosya kapasiteli çapraz referanslı denetim protokolü. ]
+  
+</details>
 
----
 
 ## 📦 SKL-0003: CampusTask Logistics Engine
 * **Tanım:** Kampüs içi otonom görev dağıtımı ve lojistik optimizasyon katmanı.
