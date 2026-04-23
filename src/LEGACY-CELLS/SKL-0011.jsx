@@ -630,6 +630,22 @@ const SKL_Footprint_Subsystem = () => {
     const [SKL_Consents, SKL_Set_Consents] = useState({ hak: false, tarama: false });
     const [SKL_Preview, SKL_Set_Preview] = useState(null);
 
+    const SKL_Handle_Preview_Change = (e) => {
+        const file = e.target.files?.[0];
+        if (!file) {
+            SKL_Set_Preview(null);
+            return;
+        }
+
+        const SKL_ALLOWED_IMAGE_TYPES = ['image/png', 'image/jpeg', 'image/webp', 'image/gif'];
+        if (!SKL_ALLOWED_IMAGE_TYPES.includes(file.type)) {
+            SKL_Set_Preview(null);
+            return;
+        }
+
+        SKL_Set_Preview(URL.createObjectURL(file));
+    };
+
     const SKL_Start_Scan = () => {
         if (!SKL_Consents.hak || !SKL_Consents.tarama) return;
         SKL_Set_State('analyzing');
@@ -653,7 +669,7 @@ const SKL_Footprint_Subsystem = () => {
                     </div>
 
                     <div onClick={() => document.getElementById('skl_foot_file').click()} className="border-2 border-dashed border-[#00ff41]/30 rounded-[4rem] p-16 bg-[#00ff41]/5 hover:bg-[#00ff41]/10 transition-all cursor-pointer group shadow-2xl relative overflow-hidden">
-                        <input id="skl_foot_file" type="file" hidden onChange={(e) => SKL_Set_Preview(URL.createObjectURL(e.target.files[0]))} />
+                        <input id="skl_foot_file" type="file" hidden onChange={SKL_Handle_Preview_Change} />
                         {SKL_Preview ? (
                             <img src={SKL_Preview} className="max-h-48 mx-auto rounded-[2rem] shadow-3xl animate-in zoom-in duration-500" alt="Preview" />
                         ) : (
