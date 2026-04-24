@@ -46,7 +46,17 @@ Sistemin 92 operasyonel hücresine ait derinlemesine teknik analizlere ve mühü
 
 👉 **[NEFER-OS OMEGA TEKNİK ANALİZ ARŞİVİ](./src/NEFER-OS-OMEGA/README.md)**
 
+--------------------------------------------------
+
 ## Bu arşiv, her bir hücrenin (SKL-01...92) mimari yapısını ve stratejik raporlarını içerir.*
+
+## ⚖️ 🛡️NEFER-OS TEKNİK ANALİZ VE DOKTRİN MERKEZİ
+
+Sistemin Non-İnvaziv Diyabetik Retinopati ve Makula Dejenerasyonu teknik analizlere aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+👉 **[NEFER-OS OMEGA TEKNİK ANALİZ ARŞİVİ](./src/HEALTH/README.md)**
+
+## Bu arşiv, Tek bir yapıdan bağımsız olarak oluşmakta. *
 
 ---
 *@architect: Ömer Kaplan | @origin: Kaplan Halı Yıkama - Precision Dept.*
