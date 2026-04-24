@@ -46,9 +46,10 @@ Sistemin 92 operasyonel hücresine ait derinlemesine teknik analizlere ve mühü
 
 👉 **[NEFER-OS OMEGA TEKNİK ANALİZ ARŞİVİ](./src/NEFER-OS-OMEGA/README.md)**
 
---------------------------------------------------
 
 ## Bu arşiv, her bir hücrenin (SKL-01...92) mimari yapısını ve stratejik raporlarını içerir.*
+
+--------------------------------------------------
 
 ## ⚖️ 🛡️HEALTH TEKNİK ANALİZ VE DOKTRİN MERKEZİ
 
