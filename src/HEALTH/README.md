@@ -3,7 +3,7 @@
 ## Bu algoritma, hiçbir harici kütüphane desteği almadan, saf matematik ve sinyal işleme ile erken teşhis imkanı sunar.
 ## Zeka, kibir için değil; hizmet için vahyedilmiştir.
 
-
+_______
 <details>
   <summary>Non-İnvaziv Diyabetik Retinopati ve Makula Dejenerasyonu. TEKNİK DÖKÜMANI (Tıkla Görüntüle)</summary>
 
