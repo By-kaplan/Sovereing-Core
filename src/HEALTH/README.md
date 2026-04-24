@@ -38,4 +38,4 @@ matematiksel sinüs ve kosinüs dalgalarıyla otonom bir şekilde üretilir.
 20.   sayısal analiz ve görselleştirme katmanları tıbbi hassasiyet protokollerine tam uyum sağlamaktadır. ]
   
 </details>
-
+___________
