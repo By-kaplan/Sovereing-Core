@@ -5,7 +5,8 @@
 
 _______
 <details>
-##  <summary>Non-İnvaziv Diyabetik Retinopati ve Makula Dejenerasyonu. TEKNİK DÖKÜMANI (Tıkla Görüntüle)</summary>
+  
+  <summary>Non-İnvaziv Diyabetik Retinopati ve Makula Dejenerasyonu. TEKNİK DÖKÜMANI (Tıkla Görüntüle)</summary>
 
   - **Analiz:** [TEKNİK ANALİZ VE SİSTEM RAPORU
 
@@ -38,6 +39,7 @@ matematiksel sinüs ve kosinüs dalgalarıyla otonom bir şekilde üretilir.
 20.   sayısal analiz ve görselleştirme katmanları tıbbi hassasiyet protokollerine tam uyum sağlamaktadır. ]
   
 </details>
+___________
 ___________
 ## AR-GE VE EĞİTİM AMACIYLA KURGULANMIŞTIR.
 ___________
