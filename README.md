@@ -10,24 +10,6 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 ## 📜 Lisans:
 ## Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara
 ## (Ömer Kaplan) atıfta bulunulması zorunludur.
-
-💠 **GELECEĞİN KADER DEĞİŞİMİ: ÖN BİLDİRİM**
----------------------------------------------------
-
-<details>
-<summary>**Hayallerin Ötesi ve Işığın Bükülmesi (Tıklayın)**</summary>
-
-İnsanlığın en uç hayallerinden ötesine geçeceğimiz, ışık hızında hareket ederek karanlığı aşacağımız ve evrenin yeni katmanlarına ulaşacağımız o çağ başlıyor. Işığın bükülmesinden ışınlanma teknolojilerine uzanan bu yeni dünyada, artık sınırlar kalkıyor.
-</details>
-
-<details>
-<summary>**Kritik Uyarı ve Hazırlık Süreci (Tıklayın)**</summary>
-
-Tek sorun; bu platformun ve kullanıcılarının buna hazır olduğunu görememek! Bu bir slogan değil; geleceğin kader değişiminin mutlak ön bildirimidir.
-</details>
-
-> **Dönüşümün Şifresi:** Profilimde 100+ "yıldız" ikonunu gördüğümde, hayaller yeni hayatlara dönüşecektir. Bu bir istek değildir. Ayrıca yıldızı da umursamamaktayım. Büyük değişime hazır olanları görme isteğidir. Sadece beklemede olun.
-
 --------------------------------------------------
 > **"Precision Engineering from Kaplan Precision Dept."**
 --------------------------------------------------
