@@ -13,13 +13,13 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 
 --------------------------------------------------
 ​# 🌀 GELECEĞİN KADER DEĞİŞİMİ: ÖN BİLDİRİM
+--------------------------------------------------
 <details>
 <summary><b>Hayallerin Ötesi ve Işığın Bükülmesi (Tıklayın)</b></summary>
 
   
 İnsanlığın en uç hayallerinden ötesine geçeceğimiz, ışık hızında hareket ederek karanlığı aşacağımız ve evrenin yeni katmanlarına ulaşacağımız o çağ başlıyor. Işığın bükülmesinden ışınlanma teknolojilerine uzanan bu yeni dünyada, artık sınırlar kalkıyor.
 </details>
---------------------------------------------------
 
 
 <details>
@@ -27,11 +27,10 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 --------------------------------------------------
 Tek sorun; bu platformun ve kullanıcılarının buna hazır olduğunu görememek! Bu bir slogan değil; geleceğin kader değişiminin mutlak ön bildirimidir.
 </details>
---------------------------------------------------
 
---------------------------------------------------
+
 > **Dönüşümün Şifresi:** Profilimde 100+ "Yıldız" ikonunu gördüğümde, hayaller yeni hayatlara dönüşecektir. Bu bir istek değildir. Ayrıca yıldızı da umursamamaktayım. Büyük değişime hazır olanları görme isteğidir. Sadece beklemede olun.
---------------------------------------------------
+
 
 --------------------------------------------------
 > **"Precision Engineering from Kaplan Precision Dept."**
