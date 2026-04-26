@@ -21,7 +21,7 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 Geçmişin mirası, geleceğin temeli oldu.
 
 </details>
-<summary><b>Hayallerin Ötesi ve Işığın Bükülmesi (Tıklayın)</b></summary>
+<summary><b>Hayallerin Ötesi ve Işığın Bükülmesi (Tıklayın)</b>
 
 ## İnsanlığın en uç hayallerinden ötesine geçeceğimiz, ışık hızında hareket ederek karanlığı aşacağımız ve evrenin yeni katmanlarına ulaşacağımız o çağ başlıyor. Işığın bükülmesinden ışınlanma teknolojilerine uzanan bu yeni dünyada, artık sınırlar kalkıyor.
 </details>
