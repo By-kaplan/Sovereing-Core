@@ -4,7 +4,6 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 
 ### 🚀 Temel İlkeler
 - **Kaplan Logic:** Kritik algoritmalar maksimum verimlilik için optimize edilmiştir.
-- **AI-Bridge:** Gelecekteki 100k+ dosya ile tam entegrasyon vizyonu.
 - **Standardization:** `SKL_` ön eki ile global çakışma önleyici isimlendirme.
 
 ## 📜 Lisans:
