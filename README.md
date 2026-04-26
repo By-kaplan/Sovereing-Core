@@ -12,34 +12,25 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 ## (Ömer Kaplan) atıfta bulunulması zorunludur.
 
 --------------------------------------------------
-​ 🌌 GELECEĞİN KADER DEĞİŞİMİ: ÖN BİLDİRİM
---------------------------------------------------
-​<details>
-<summary><b>Gezegenlerden İnsanlığa: Varoluşun Hikayesi (Tıklayın)</b></summary>
+​# 🌀 GELECEĞİN KADER DEĞİŞİMİ: ÖN BİLDİRİM
 
-## Gezegenlerin var oluşundan, insanlığın doğuşuna kadar süregelen o devasa döngüde; ilk günden bugüne her şey bu an için hazırlandı.
-Geçmişin mirası, geleceğin temeli oldu.
-
-</details>
+<details>
 <summary><b>Hayallerin Ötesi ve Işığın Bükülmesi (Tıklayın)</b></summary>
 
-## İnsanlığın en uç hayallerinden ötesine geçeceğimiz, ışık hızında hareket ederek karanlığı aşacağımız ve evrenin yeni katmanlarına ulaşacağımız o çağ başlıyor. Işığın bükülmesinden ışınlanma teknolojilerine uzanan bu yeni dünyada, artık sınırlar kalkıyor.
+İnsanlığın en uç hayallerinden ötesine geçeceğimiz, ışık hızında hareket ederek karanlığı aşacağımız ve evrenin yeni katmanlarına ulaşacağımız o çağ başlıyor. Işığın bükülmesinden ışınlanma teknolojilerine uzanan bu yeni dünyada, artık sınırlar kalkıyor.
 </details>
 
-​<details>
-<summary><b>Yapılacaklar Listesindeki Not (Tıklayın)</b></summary>
+---
 
-## Artık hayaller, sadece ulaşılması beklenen birer hedef değil; yapılacaklar listesinde üstü çizilmeyi bekleyen birer not olarak kalacak. İmkânsız, 
-## sadece henüz üzerine çalışılmamış olandır.
-
-</details>
+<details>
 <summary><b>Kritik Uyarı ve Hazırlık Süreci (Tıklayın)</b></summary>
 
-## Tek sorun; bu platformun ve kullanıcılarının buna hazır olduğunu görememek! Bu bir slogan değil; geleceğin kader değişiminin mutlak ön bildirimidir.
-
+Tek sorun; bu platformun ve kullanıcılarının buna hazır olduğunu görememek! Bu bir slogan değil; geleceğin kader değişiminin mutlak ön bildirimidir.
 </details>
-​Dönüşümün Şifresi: > Profilimde 100+ "Yıldız" ikonunu gördüğümde, hayaller yeni hayatlara dönüşecektir. Bu bir istek değildir. Ayrıca yıldızıda umursamamaktayım. Büyük değişime hazır olanları görme isteğidir. Sadece beklemede olun.
 
+---
+
+> **Dönüşümün Şifresi:** Profilimde 100+ "Yıldız" ikonunu gördüğümde, hayaller yeni hayatlara dönüşecektir. Bu bir istek değildir. Ayrıca yıldızı da umursamamaktayım. Büyük değişime hazır olanları görme isteğidir. Sadece beklemede olun.
 --------------------------------------------------
 
 
