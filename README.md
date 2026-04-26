@@ -12,7 +12,7 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 ## (Ömer Kaplan) atıfta bulunulması zorunludur.
 
 --------------------------------------------------
-​# 🌀 GELECEĞİN KADER DEĞİŞİMİ: ÖN BİLDİRİM
+​ 🌀 GELECEĞİN KADER DEĞİŞİMİ: ÖN BİLDİRİM
 --------------------------------------------------
 <details>
 <summary><b>Hayallerin Ötesi ve Işığın Bükülmesi (Tıklayın)</b></summary>
