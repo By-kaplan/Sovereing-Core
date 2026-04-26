@@ -10,7 +10,6 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 ## 📜 Lisans:
 ## Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara
 ## (Ömer Kaplan) atıfta bulunulması zorunludur.
---------------------------------------------------
 
 --------------------------------------------------
 # 🛡️ SOVEREIGN CORE LIBRARY (SKL)
