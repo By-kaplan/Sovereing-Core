@@ -5,12 +5,13 @@ Bu depo, **Ömer Kaplan - Kaplan Precision Dept.** tarafından geliştirilen evr
 ### 🚀 Temel İlkeler
 - **Kaplan Logic:** Kritik algoritmalar maksimum verimlilik için optimize edilmiştir.
 - **Standardization:** `SKL_` ön eki ile global çakışma önleyici isimlendirme.
+> **"Precision Engineering from Kaplan Precision Dept."**
 
 ## 📜 Lisans:
 ## Bu kütüphane **MIT Lisansı** altındadır. Kullanım ve dağıtımda mimara
 ## (Ömer Kaplan) atıfta bulunulması zorunludur.
 --------------------------------------------------
-> **"Precision Engineering from Kaplan Precision Dept."**
+
 --------------------------------------------------
 # 🛡️ SOVEREIGN CORE LIBRARY (SKL)
 
